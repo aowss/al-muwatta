@@ -1,0 +1,10 @@
+:toc:
+:toc-title: الرجال
+
+= تراجم
+
+include::ابن-شهاب.adoc[leveloffset=+1]
+
+include::عمر-بن-عبد-العزيز.adoc[leveloffset=+1]
+
+include::عروة-بن-الزبير.adoc[leveloffset=+1]
