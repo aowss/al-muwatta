@@ -6,15 +6,19 @@ The [`content.xml`](./content.xml) and [`metadata.xml`](./metadata.xml) files we
 
 * [Saxon XSLT Processor](https://www.saxonica.com/welcome/welcome.xml) to process the [`content.xml`](./content.xml) and [`metadata.xml`](./metadata.xml) files
 
-We copied the [Saxon jar](./saxon-he-10.4.jar) in this directory
+You need to copy the `saxon-he-10.6.jar` in this directory
+
+* Java to run Saxon
+
+You need to follow the [instructions](https://www.oracle.com/java/technologies/downloads/) to install Java so that you can run the `java -cp saxon-he-10.6.jar net.sf.saxon.Transform` command
 
 * [Asciidoctor](https://asciidoctor.org/) to convert the `adoc` files to `html`
 
-You need to follow the [instructions](https://docs.asciidoctor.org/asciidoctor/latest/install/) to install Asciidoctor so that you can run the `asciidoctor` command
+You need to follow the [instructions](https://docs.asciidoctor.org/asciidoctor/latest/install/) to globally install [Asciidoctor](https://asciidoctor.org/) so that you can run the `asciidoctor` command
 
 * [Asciidoctor revealjs](https://github.com/asciidoctor/asciidoctor-reveal.js) to convert the `adoc` files to `html` presentations
 
-You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-converter/latest/setup/standalone-executable/) to install Asciidoctor revealjs in this folder so that you can run the `./asciidoctor-revealjs` command
+You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-converter/latest/setup/standalone-executable/) to install [Asciidoctor revealjs](https://github.com/asciidoctor/asciidoctor-reveal.js) in this folder so that you can run the `./asciidoctor-revealjs` command
 
 ## HTML
 
