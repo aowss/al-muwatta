@@ -1,0 +1,26 @@
+
+= كتاب الاستسقاء
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْعَمَلِ فِي الاِسْتِسْقَاءِ
+include::../../أحاديث/٠٤٥٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الاِسْتِسْقَاءِ
+include::../../أحاديث/٠٤٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٥٤.adoc[leveloffset=+2]
+      
+      
+== باب الاِسْتِمْطَارِ بِالنُّجُومِ
+include::../../أحاديث/٠٤٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٥٧.adoc[leveloffset=+2]
+      
+    

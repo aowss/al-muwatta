@@ -1,0 +1,144 @@
+
+= كتاب العقول
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب ذِكْرِ الْعُقُولِ
+include::../../أحاديث/١٥٥٥.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي الدِّيَةِ
+include::../../أحاديث/١٥٥٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي دِيَةِ الْعَمْدِ إِذَا قُبِلَتْ وَجِنَايَةِ الْمُجْنُونِ
+include::../../أحاديث/١٥٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٥٨.adoc[leveloffset=+2]
+      
+      
+== باب دِيَةِ الْخَطَإِ فِي الْقَتْلِ
+include::../../أحاديث/١٥٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٦٠.adoc[leveloffset=+2]
+      
+      
+== باب عَقْلِ الْجِرَاحِ فِي الْخَطَإِ
+      
+== باب عَقْلِ الْمَرْأَةِ
+include::../../أحاديث/١٥٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٦٣.adoc[leveloffset=+2]
+      
+      
+== باب عَقْلِ الْجَنِينِ
+include::../../أحاديث/١٥٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٦٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا فِيهِ الدِّيَةُ كَامِلَةً
+include::../../أحاديث/١٥٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٦٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي عَقْلِ الْعَيْنِ إِذَا ذَهَبَ بَصَرُهَا
+include::../../أحاديث/١٥٦٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي عَقْلِ الشِّجَاجِ
+include::../../أحاديث/١٥٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٧٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي عَقْلِ الأَصَابِعِ
+include::../../أحاديث/١٥٧٤.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ عَقْلِ الأَسْنَانِ
+include::../../أحاديث/١٥٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٧٧.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي عَقْلِ الأَسْنَانِ
+include::../../أحاديث/١٥٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٧٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي دِيَةِ جِرَاحِ الْعَبْدِ
+include::../../أحاديث/١٥٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٨١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي دِيَةِ أَهْلِ الذِّمَّةِ
+include::../../أحاديث/١٥٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٨٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُوجِبُ الْعَقْلَ عَلَى الرَّجُلِ فِي خَاصَّةِ مَالِهِ
+include::../../أحاديث/١٥٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٨٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي مِيرَاثِ الْعَقْلِ وَالتَّغْلِيظِ فِيهِ
+include::../../أحاديث/١٥٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٩١.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْعَقْلِ
+include::../../أحاديث/١٥٩٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْغِيلَةِ وَالسِّحْرِ
+include::../../أحاديث/١٥٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٩٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجِبُ فِي الْعَمْدِ
+include::../../أحاديث/١٥٩٥.adoc[leveloffset=+2]
+      
+      
+== باب الْقِصَاصِ فِي الْقَتْلِ
+include::../../أحاديث/١٥٩٦.adoc[leveloffset=+2]
+      
+      
+== باب الْعَفْوِ فِي قَتْلِ الْعَمْدِ
+      
+== باب الْقِصَاصِ فِي الْجِرَاحِ
+include::../../أحاديث/١٥٩٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي دِيَةِ السَّائِبَةِ وَجِنَايَتَهِ
+include::../../أحاديث/١٥٩٨.adoc[leveloffset=+2]
+      
+    

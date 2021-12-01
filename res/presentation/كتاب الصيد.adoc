@@ -1,0 +1,52 @@
+
+= كتاب الصيد
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب تَرْكِ أَكْلِ مَا قَتَلَ الْمِعْرَاضُ وَالْحَجَرُ
+include::../../أحاديث/١٠٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٥٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صَيْدِ الْمُعَلَّمَاتِ
+include::../../أحاديث/١٠٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٦٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صَيْدِ الْبَحْرِ
+include::../../أحاديث/١٠٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٦٤.adoc[leveloffset=+2]
+      
+      
+== باب تَحْرِيمِ أَكْلِ كُلِّ ذِي نَابٍ مِنَ السِّبَاعِ
+include::../../أحاديث/١٠٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٦٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنْ أَكْلِ الدَّوَابِّ
+      
+== باب مَا جَاءَ فِي جُلُودِ الْمَيْتَةِ
+include::../../أحاديث/١٠٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٦٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِيمَنْ يُضْطَرُّ إِلَى أَكْلِ الْمَيْتَةِ
+    

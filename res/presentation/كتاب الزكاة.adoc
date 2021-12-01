@@ -1,0 +1,172 @@
+
+= كتاب الزكاة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا تَجِبُ فِيهِ الزَّكَاةُ
+include::../../أحاديث/٠٥٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٨٣.adoc[leveloffset=+2]
+      
+      
+== باب الزَّكَاةِ فِي الْعَيْنِ مِنَ الذَّهَبِ وَالْوَرِقِ
+include::../../أحاديث/٠٥٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٨٧.adoc[leveloffset=+2]
+      
+      
+== باب الزَّكَاةِ فِي الْمَعَادِنِ
+include::../../أحاديث/٠٥٨٨.adoc[leveloffset=+2]
+      
+      
+== باب زَكَاةِ الرِّكَازِ
+include::../../أحاديث/٠٥٨٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ زَكَاةَ فِيهِ مِنَ الْحُلِيِّ وَالتِّبْرِ وَالْعَنْبَرِ
+include::../../أحاديث/٠٥٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٩١.adoc[leveloffset=+2]
+      
+      
+== باب زَكَاةِ أَمْوَالِ الْيَتَامَى وَالتِّجَارَةِ لَهُمْ فِيهَا
+include::../../أحاديث/٠٥٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٩٥.adoc[leveloffset=+2]
+      
+      
+== باب زَكَاةِ الْمِيرَاثِ
+      
+== باب الزَّكَاةِ فِي الدَّيْنِ
+include::../../أحاديث/٠٥٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٩٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٩٨.adoc[leveloffset=+2]
+      
+      
+== باب زَكَاةِ الْعُرُوضِ
+include::../../أحاديث/٠٥٩٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْكَنْزِ
+include::../../أحاديث/٠٦٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٠١.adoc[leveloffset=+2]
+      
+      
+== باب صَدَقَةِ الْمَاشِيَةِ
+include::../../أحاديث/٠٦٠٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صَدَقَةِ الْبَقَرِ
+include::../../أحاديث/٠٦٠٣.adoc[leveloffset=+2]
+      
+      
+== باب صَدَقَةِ الْخُلَطَاءِ
+      
+== باب مَا جَاءَ فِيمَا يُعْتَدُّ بِهِ مِنَ السَّخْلِ فِي الصَّدَقَةِ
+include::../../أحاديث/٠٦٠٤.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي صَدَقَةِ عَامَيْنِ إِذَا اجْتَمَعَا
+      
+== باب النَّهْىِ عَنِ التَّضْيِيقِ عَلَى النَّاسِ فِي الصَّدَقَةِ
+include::../../أحاديث/٠٦٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٠٦.adoc[leveloffset=+2]
+      
+      
+== باب أَخْذِ الصَّدَقَةِ وَمَنْ يَجُوزُ لَهُ أَخْذُهَا
+include::../../أحاديث/٠٦٠٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي أَخْذِ الصَّدَقَاتِ وَالتَّشْدِيدِ فِيهَا
+include::../../أحاديث/٠٦٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦١٠.adoc[leveloffset=+2]
+      
+      
+== باب زَكَاةِ مَا يُخْرَصُ مِنْ ثِمَارِ النَّخِيلِ وَالأَعْنَابِ
+include::../../أحاديث/٠٦١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦١٢.adoc[leveloffset=+2]
+      
+      
+== باب زَكَاةِ الْحُبُوبِ وَالزَّيْتُونِ
+include::../../أحاديث/٠٦١٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ زَكَاةَ فِيهِ مِنَ الثِّمَارِ
+      
+== باب مَا لاَ زَكَاةَ فِيهِ مِنَ الْفَوَاكِهِ وَالْقَضْبِ وَالْبُقُولِ
+      
+== باب مَا جَاءَ فِي صَدَقَةِ الرَّقِيقِ وَالْخَيْلِ وَالْعَسَلِ
+include::../../أحاديث/٠٦١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦١٧.adoc[leveloffset=+2]
+      
+      
+== باب جِزْيَةِ أَهْلِ الْكِتَابِ وَالْمَجُوسِ
+include::../../أحاديث/٠٦١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٢٢.adoc[leveloffset=+2]
+      
+      
+== باب عُشُورِ أَهْلِ الذِّمَّةِ
+include::../../أحاديث/٠٦٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٢٥.adoc[leveloffset=+2]
+      
+      
+== باب اشْتِرَاءِ الصَّدَقَةِ وَالْعَوْدِ فِيهَا
+include::../../أحاديث/٠٦٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٢٧.adoc[leveloffset=+2]
+      
+      
+== باب مَنْ تَجِبُ عَلَيْهِ زَكَاةُ الْفِطْرِ
+include::../../أحاديث/٠٦٢٨.adoc[leveloffset=+2]
+      
+      
+== باب مَكِيلَةِ زَكَاةِ الْفِطْرِ
+include::../../أحاديث/٠٦٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٣٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٣١.adoc[leveloffset=+2]
+      
+      
+== باب وَقْتِ إِرْسَالِ زَكَاةِ الْفِطْرِ
+include::../../أحاديث/٠٦٣٢.adoc[leveloffset=+2]
+      
+      
+== باب مَنْ لاَ تَجِبُ عَلَيْهِ زَكَاةُ الْفِطْرِ
+    

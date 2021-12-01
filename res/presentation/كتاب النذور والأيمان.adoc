@@ -1,0 +1,64 @@
+
+= كتاب النذور والأيمان
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا يَجِبُ مِنَ النُّذُورِ فِي الْمَشْىِ
+include::../../أحاديث/١٠١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠١٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠١٤.adoc[leveloffset=+2]
+      
+      
+== باب فِيمَنْ نَذَرَ مَشْيًا إِلَى بَيْتِ اللَّهِ فَعَجَزَ
+include::../../أحاديث/١٠١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠١٧.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي الْمَشْىِ إِلَى الْكَعْبَةِ
+      
+== باب مَا لاَ يَجُوزُ مِنَ النُّذُورِ فِي مَعْصِيَةِ اللَّهِ
+include::../../أحاديث/١٠١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٢٠.adoc[leveloffset=+2]
+      
+      
+== باب اللَّغْوِ فِي الْيَمِينِ
+include::../../أحاديث/١٠٢١.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ تَجِبُ فِيهِ الْكَفَّارَةُ مِنَ الْيَمِينِ
+include::../../أحاديث/١٠٢٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا تَجِبُ فِيهِ الْكَفَّارَةُ مِنَ الأَيْمَانِ
+include::../../أحاديث/١٠٢٣.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي كَفَّارَةِ الْيَمِينِ
+include::../../أحاديث/١٠٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٢٦.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الأَيْمَانِ
+include::../../أحاديث/١٠٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٣٠.adoc[leveloffset=+2]
+      
+    

@@ -1,0 +1,300 @@
+
+= كتاب الطهارة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْعَمَلِ فِي الْوُضُوءِ
+include::../../أحاديث/٠٠٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٣٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٣٧.adoc[leveloffset=+2]
+      
+      
+== باب وُضُوءِ النَّائِمِ إِذَا قَامَ إِلَى الصَّلاَةِ
+include::../../أحاديث/٠٠٣٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٤١.adoc[leveloffset=+2]
+      
+      
+== باب الطَّهُورِ لِلْوُضُوءِ
+include::../../أحاديث/٠٠٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٤٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٤٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ يَجِبُ مِنْهُ الْوُضُوءُ
+include::../../أحاديث/٠٠٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٤٨.adoc[leveloffset=+2]
+      
+      
+== باب تَرْكِ الْوُضُوءِ مِمَّا مَسَّتْهُ النَّارُ
+include::../../أحاديث/٠٠٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٧.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْوُضُوءِ
+include::../../أحاديث/٠٠٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمَسْحِ بِالرَّأْسِ وَالأُذُنَيْنِ
+include::../../أحاديث/٠٠٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٧١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ
+include::../../أحاديث/٠٠٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٧٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٧٥.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي الْمَسْحِ عَلَى الْخُفَّيْنِ
+include::../../أحاديث/٠٠٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٧٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الرُّعَافِ
+include::../../أحاديث/٠٠٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٨٠.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي الرُّعَافِ
+include::../../أحاديث/٠٠٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٨٢.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِيمَنْ غَلَبَهُ الدَّمُ مِنْ جُرْحٍ أَوْ رُعَافٍ
+include::../../أحاديث/٠٠٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٨٤.adoc[leveloffset=+2]
+      
+      
+== باب الْوُضُوءِ مِنَ الْمَذْىِ
+include::../../أحاديث/٠٠٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٨٧.adoc[leveloffset=+2]
+      
+      
+== باب الرُّخْصَةِ فِي تَرْكِ الْوُضُوءِ مِنَ الْمَذْىِ
+include::../../أحاديث/٠٠٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٨٩.adoc[leveloffset=+2]
+      
+      
+== باب الْوُضُوءِ مِنْ مَسِّ الْفَرْجِ
+include::../../أحاديث/٠٠٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٩١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٩٥.adoc[leveloffset=+2]
+      
+      
+== باب الْوُضُوءِ مِنْ قُبْلَةِ الرَّجُلِ امْرَأَتَهُ
+include::../../أحاديث/٠٠٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٩٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٩٨.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي غُسْلِ الْجَنَابَةِ
+include::../../أحاديث/٠٠٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠٢.adoc[leveloffset=+2]
+      
+      
+== باب وَاجِبِ الْغُسْلِ إِذَا الْتَقَى الْخِتَانَانِ
+include::../../أحاديث/٠١٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠٧.adoc[leveloffset=+2]
+      
+      
+== باب وُضُوءِ الْجُنُبِ إِذَا أَرَادَ أَنْ يَنَامَ أَوْ يَطْعَمَ قَبْلَ أَنْ يَغْتَسِلَ
+include::../../أحاديث/٠١٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١١٠.adoc[leveloffset=+2]
+      
+      
+== باب إِعَادَةِ الْجُنُبِ الصَّلاَةَ وَغُسْلِهِ إِذَا صَلَّى وَلَمْ يَذْكُرْ وَغَسْلِهِ ثَوْبَهُ
+include::../../أحاديث/٠١١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١١٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١١٥.adoc[leveloffset=+2]
+      
+      
+== باب غُسْلِ الْمَرْأَةِ إِذَا رَأَتْ فِي الْمَنَامِ مِثْلَ مَا يَرَى الرَّجُلُ
+include::../../أحاديث/٠١١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١١٧.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ غُسْلِ الْجَنَابَةِ
+include::../../أحاديث/٠١١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٢٠.adoc[leveloffset=+2]
+      
+      
+== باب فِي التَّيَمُّمِ
+include::../../أحاديث/٠١٢١.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي التَّيَمُّمِ
+include::../../أحاديث/٠١٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٢٣.adoc[leveloffset=+2]
+      
+      
+== باب تَيَمُّمِ الْجُنُبِ
+include::../../أحاديث/٠١٢٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَحِلُّ لِلرَّجُلِ مِنِ امْرَأَتِهِ وَهِيَ حَائِضٌ
+include::../../أحاديث/٠١٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٢٨.adoc[leveloffset=+2]
+      
+      
+== باب طُهْرِ الْحَائِضِ
+include::../../أحاديث/٠١٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٠.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْحَيْضَةِ
+include::../../أحاديث/٠١٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٤.adoc[leveloffset=+2]
+      
+      
+== باب الْمُسْتَحَاضَةِ
+include::../../أحاديث/٠١٣٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٣٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي بَوْلِ الصَّبِيِّ
+include::../../أحاديث/٠١٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٤١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْبَوْلِ قَائِمًا وَغَيْرِهِ
+include::../../أحاديث/٠١٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٤٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي السِّوَاكِ
+include::../../أحاديث/٠١٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٤٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠١٤٦.adoc[leveloffset=+2]
+      
+    

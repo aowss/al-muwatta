@@ -1,0 +1,84 @@
+
+= كتاب صلاة الليل
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي صَلاَةِ اللَّيْلِ
+include::../../أحاديث/٠٢٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦١.adoc[leveloffset=+2]
+      
+      
+== باب صَلاَةِ النَّبِيِّ صلى الله عليه وسلم فِي الْوِتْرِ
+include::../../أحاديث/٠٢٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦٦.adoc[leveloffset=+2]
+      
+      
+== باب الأَمْرِ بِالْوِتْرِ
+include::../../أحاديث/٠٢٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٦.adoc[leveloffset=+2]
+      
+      
+== باب الْوِتْرِ بَعْدَ الْفَجْرِ
+include::../../أحاديث/٠٢٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي رَكْعَتَىِ الْفَجْرِ
+include::../../أحاديث/٠٢٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨٧.adoc[leveloffset=+2]
+      
+    

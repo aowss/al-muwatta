@@ -1,0 +1,60 @@
+
+= كتاب العين
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْوُضُوءِ مِنَ الْعَيْنِ
+include::../../أحاديث/١٧١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧١٥.adoc[leveloffset=+2]
+      
+      
+== باب الرُّقْيَةِ مِنَ الْعَيْنِ
+include::../../أحاديث/١٧١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧١٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي أَجْرِ الْمَرِيضِ
+include::../../أحاديث/١٧١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٢١.adoc[leveloffset=+2]
+      
+      
+== باب التَّعَوُّذِ وَالرُّقْيَةِ فِي الْمَرَضِ
+include::../../أحاديث/١٧٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٢٤.adoc[leveloffset=+2]
+      
+      
+== باب تَعَالُجِ الْمَرِيضِ
+include::../../أحاديث/١٧٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٢٧.adoc[leveloffset=+2]
+      
+      
+== باب الْغَسْلِ بِالْمَاءِ مِنَ الْحُمَّى
+include::../../أحاديث/١٧٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٣٠.adoc[leveloffset=+2]
+      
+      
+== باب عِيَادَةِ الْمَرِيضِ وَالطِّيَرَةِ
+include::../../أحاديث/١٧٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٣٢.adoc[leveloffset=+2]
+      
+    

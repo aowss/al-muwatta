@@ -1,0 +1,172 @@
+
+= كتاب الصيام
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي رُؤْيَةِ الْهِلاَلِ لِلصَّوْمِ وَالْفِطْرِ فِي رَمَضَانَ
+include::../../أحاديث/٠٦٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٣٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٣٦.adoc[leveloffset=+2]
+      
+      
+== باب مَنْ أَجْمَعَ الصِّيَامَ قَبْلَ الْفَجْرِ
+include::../../أحاديث/٠٦٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٣٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي تَعْجِيلِ الْفِطْرِ
+include::../../أحاديث/٠٦٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صِيَامِ الَّذِي يُصْبِحُ جُنُبًا فِي رَمَضَانَ
+include::../../أحاديث/٠٦٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الرُّخْصَةِ فِي الْقُبْلَةِ لِلصَّائِمِ
+include::../../أحاديث/٠٦٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي التَّشْدِيدِ فِي الْقُبْلَةِ لِلصَّائِمِ
+include::../../أحاديث/٠٦٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الصِّيَامِ فِي السَّفَرِ
+include::../../أحاديث/٠٦٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٦٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَفْعَلُ مَنْ قَدِمَ مِنْ سَفَرٍ أَوْ أَرَادَهُ فِي رَمَضَانَ
+include::../../أحاديث/٠٦٦١.adoc[leveloffset=+2]
+      
+      
+== باب كَفَّارَةِ مَنْ أَفْطَرَ فِي رَمَضَانَ
+include::../../أحاديث/٠٦٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٦٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي حِجَامَةِ الصَّائِمِ
+include::../../أحاديث/٠٦٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٦٦.adoc[leveloffset=+2]
+      
+      
+== باب صِيَامِ يَوْمِ عَاشُورَاءَ
+include::../../أحاديث/٠٦٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٦٩.adoc[leveloffset=+2]
+      
+      
+== باب صِيَامِ يَوْمِ الْفِطْرِ وَالأَضْحَى وَالدَّهْرِ
+include::../../أحاديث/٠٦٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٧١.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الْوِصَالِ، فِي الصِّيَامِ
+include::../../أحاديث/٠٦٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٧٣.adoc[leveloffset=+2]
+      
+      
+== باب صِيَامِ الَّذِي يَقْتُلُ خَطَأً أَوْ يَتَظَاهَرُ
+      
+== باب مَا يَفْعَلُ الْمَرِيضُ فِي صِيَامِهِ
+      
+== باب النَّذْرِ فِي الصِّيَامِ وَالصِّيَامِ عَنِ الْمَيِّتِ
+include::../../أحاديث/٠٦٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٧٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي قَضَاءِ رَمَضَانَ وَالْكَفَّارَاتِ
+include::../../أحاديث/٠٦٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٨٢.adoc[leveloffset=+2]
+      
+      
+== باب قَضَاءِ التَّطَوُّعِ
+include::../../أحاديث/٠٦٨٣.adoc[leveloffset=+2]
+      
+      
+== باب فِدْيَةِ مَنْ أَفْطَرَ فِي رَمَضَانَ مِنْ عِلَّةٍ
+include::../../أحاديث/٠٦٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٨٧.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ قَضَاءِ الصِّيَامِ
+include::../../أحاديث/٠٦٨٨.adoc[leveloffset=+2]
+      
+      
+== باب صِيَامِ الْيَوْمِ الَّذِي يُشَكُّ فِيهِ
+      
+== باب جَامِعِ الصِّيَامِ
+include::../../أحاديث/٠٦٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٩١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٩٢.adoc[leveloffset=+2]
+      
+    

@@ -1,0 +1,262 @@
+
+= كتاب قصر الصلاة فى السفر
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْجَمْعِ بَيْنَ الصَّلاَتَيْنِ فِي الْحَضَرِ وَالسَّفَرِ
+include::../../أحاديث/٠٣٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣٥.adoc[leveloffset=+2]
+      
+      
+== باب قَصْرِ الصَّلاَةِ فِي السَّفَرِ
+include::../../أحاديث/٠٣٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٣٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجِبُ فِيهِ قَصْرُ الصَّلاَةِ
+include::../../أحاديث/٠٣٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٤١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٤٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٤٥.adoc[leveloffset=+2]
+      
+      
+== باب صَلاَةِ الْمُسَافِرِ مَا لَمْ يُجْمِعْ مُكْثًا
+include::../../أحاديث/٠٣٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٤٧.adoc[leveloffset=+2]
+      
+      
+== باب صَلاَةِ الْمُسَافِرِ إِذَا أَجْمَعَ مُكْثًا
+include::../../أحاديث/٠٣٤٨.adoc[leveloffset=+2]
+      
+      
+== باب صَلاَةِ الْمُسَافِرِ إِذَا كَانَ إِمَامًا أَوْ كَانَ وَرَاءَ إِمَامٍ
+include::../../أحاديث/٠٣٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥٢.adoc[leveloffset=+2]
+      
+      
+== باب صَلاَةِ النَّافِلَةِ فِي السَّفَرِ بِالنَّهَارِ وَاللَّيْلِ وَالصَّلاَةِ عَلَى الدَّابَّةِ
+include::../../أحاديث/٠٣٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٥٨.adoc[leveloffset=+2]
+      
+      
+== باب صَلاَةِ الضُّحَى
+include::../../أحاديث/٠٣٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦٢.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ سُبْحَةِ الضُّحَى
+include::../../أحاديث/٠٣٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦٤.adoc[leveloffset=+2]
+      
+      
+== باب التَّشْدِيدِ فِي أَنْ يَمُرَّ أَحَدٌ بَيْنَ يَدَىِ الْمُصَلِّي
+include::../../أحاديث/٠٣٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٦٩.adoc[leveloffset=+2]
+      
+      
+== باب الرُّخْصَةِ فِي الْمُرُورِ بَيْنَ يَدَىِ الْمُصَلِّي
+include::../../أحاديث/٠٣٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٧٣.adoc[leveloffset=+2]
+      
+      
+== باب سُتْرَةِ الْمُصَلِّي فِي السَّفَرِ
+include::../../أحاديث/٠٣٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٧٥.adoc[leveloffset=+2]
+      
+      
+== باب مَسْحِ الْحَصْبَاءِ فِي الصَّلاَةِ
+include::../../أحاديث/٠٣٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٧٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي تَسْوِيَةِ الصُّفُوفِ
+include::../../أحاديث/٠٣٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٧٩.adoc[leveloffset=+2]
+      
+      
+== باب وَضَعِ الْيَدَيْنِ إِحْدَاهُمَا عَلَى الأُخْرَى فِي الصَّلاَةِ
+include::../../أحاديث/٠٣٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٨١.adoc[leveloffset=+2]
+      
+      
+== باب الْقُنُوتِ فِي الصُّبْحِ
+include::../../أحاديث/٠٣٨٢.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الصَّلاَةِ، وَالإِنْسَانُ، يُرِيدُ حَاجَتَهُ
+include::../../أحاديث/٠٣٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٨٤.adoc[leveloffset=+2]
+      
+      
+== باب انْتِظَارِ الصَّلاَةِ وَالْمَشْىِ إِلَيْهَا
+include::../../أحاديث/٠٣٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٩١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٩٢.adoc[leveloffset=+2]
+      
+      
+== باب وَضْعِ الْيَدَيْنِ عَلَى مَا يُوضَعُ عَلَيْهِ الْوَجْهُ فِي السُّجُودِ
+include::../../أحاديث/٠٣٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٩٤.adoc[leveloffset=+2]
+      
+      
+== باب الاِلْتِفَاتِ وَالتَّصْفِيقِ عِنْدَ الْحَاجَةِ فِي الصَّلاَةِ
+include::../../أحاديث/٠٣٩٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٩٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَفْعَلُ مَنْ جَاءَ وَالإِمَامُ رَاكِعٌ
+include::../../أحاديث/٠٣٩٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٩٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الصَّلاَةِ عَلَى النَّبِيِّ صلى الله عليه وسلم
+include::../../أحاديث/٠٤٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠٢.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي جَامِعِ الصَّلاَةِ
+include::../../أحاديث/٠٤٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٤.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الصَّلاَةِ
+include::../../أحاديث/٠٤١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٢٨.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ التَّرْغِيبِ فِي الصَّلاَةِ
+include::../../أحاديث/٠٤٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٣٠.adoc[leveloffset=+2]
+      
+    

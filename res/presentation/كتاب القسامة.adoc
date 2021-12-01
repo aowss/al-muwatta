@@ -1,0 +1,22 @@
+
+= كتاب القسامة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب تَبْدِئَةِ أَهْلِ الدَّمِ فِي الْقَسَامَةِ
+include::../../أحاديث/١٥٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٠.adoc[leveloffset=+2]
+      
+      
+== باب مَنْ تَجُوزُ قَسَامَتُهُ فِي الْعَمْدِ مِنْ وُلاَةِ الدَّمِ
+      
+== باب الْقَسَامَةِ فِي قَتْلِ الْخَطَإِ
+      
+== باب الْمِيرَاثِ فِي الْقَسَامَةِ
+      
+== باب الْقَسَامَةِ فِي الْعَبِيدِ
+    

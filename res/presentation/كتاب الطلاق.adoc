@@ -1,0 +1,322 @@
+
+= كتاب الطلاق
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي الْبَتَّةِ
+include::../../أحاديث/١١٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٥٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٥٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْخَلِيَّةِ وَالْبَرِيَّةِ وَأَشْبَاهُ ذَلِكَ
+include::../../أحاديث/١١٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٦٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٦١.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُبِينُ مِنَ التَّمْلِيكِ
+include::../../أحاديث/١١٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٦٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجِبُ فِيهِ تَطْلِيقَةٌ وَاحِدَةٌ مِنَ التَّمْلِيكِ
+include::../../أحاديث/١١٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٦٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ يُبِينُ مِنَ التَّمْلِيكِ
+include::../../أحاديث/١١٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٦٩.adoc[leveloffset=+2]
+      
+      
+== باب الإِيلاَءِ
+include::../../أحاديث/١١٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٧٣.adoc[leveloffset=+2]
+      
+      
+== باب إِيلاَءِ الْعَبْدِ
+include::../../أحاديث/١١٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٧٥.adoc[leveloffset=+2]
+      
+      
+== باب ظِهَارِ الْحُرِّ
+include::../../أحاديث/١١٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٨٠.adoc[leveloffset=+2]
+      
+      
+== باب ظِهَارِ الْعَبِيدِ
+include::../../أحاديث/١١٨١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْخِيَارِ
+include::../../أحاديث/١١٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٨٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْخُلْعِ
+include::../../أحاديث/١١٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٨٨.adoc[leveloffset=+2]
+      
+      
+== باب طَلاَقِ الْمُخْتَلِعَةِ
+include::../../أحاديث/١١٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٩٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي اللِّعَانِ
+include::../../أحاديث/١١٩١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٩٢.adoc[leveloffset=+2]
+      
+      
+== باب مِيرَاثِ وَلَدِ الْمُلاَعَنَةِ
+include::../../أحاديث/١١٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٩٤.adoc[leveloffset=+2]
+      
+      
+== باب طَلاَقِ الْبِكْرِ
+include::../../أحاديث/١١٩٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٩٧.adoc[leveloffset=+2]
+      
+      
+== باب طَلاَقِ الْمَرِيضِ
+include::../../أحاديث/١١٩٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١١٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي مُتْعَةِ الطَّلاَقِ
+include::../../أحاديث/١٢٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي طَلاَقِ الْعَبْدِ
+include::../../أحاديث/١٢٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١١.adoc[leveloffset=+2]
+      
+      
+== باب نَفَقَةِ الأَمَةِ إِذَا طُلِّقَتْ وَهِيَ حَامِلٌ
+      
+== باب عِدَّةِ الَّتِي تَفْقِدُ زَوْجَهَا
+include::../../أحاديث/١٢١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الأَقْرَاءِ وَعِدَّةِ الطَّلاَقِ وَطَلاَقِ الْحَائِضِ
+include::../../أحاديث/١٢١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي عِدَّةِ الْمَرْأَةِ فِي بَيْتِهَا إِذَا طُلِّقَتْ فِيهِ
+include::../../أحاديث/١٢٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي نَفَقَةِ الْمُطَلَّقَةِ
+include::../../أحاديث/١٢٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٢٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي عِدَّةِ الأَمَةِ مِنْ طَلاَقِ زَوْجِهَا
+      
+== باب جَامِعِ عِدَّةِ الطَّلاَقِ
+include::../../أحاديث/١٢٣٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٣٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْحَكَمَيْنِ
+include::../../أحاديث/١٢٣٣.adoc[leveloffset=+2]
+      
+      
+== باب يَمِينِ الرَّجُلِ بِطَلاَقٍ مَا لَمْ يَنْكِحُ
+include::../../أحاديث/١٢٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٣٥.adoc[leveloffset=+2]
+      
+      
+== باب أَجَلِ الَّذِي لاَ يَمَسُّ امْرَأَتَهُ
+include::../../أحاديث/١٢٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٣٧.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الطَّلاَقِ
+include::../../أحاديث/١٢٣٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٥.adoc[leveloffset=+2]
+      
+      
+== باب عِدَّةِ الْمُتَوَفَّى عَنْهَا زَوْجُهَا إِذَا كَانَتْ حَامِلاً
+include::../../أحاديث/١٢٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٤٩.adoc[leveloffset=+2]
+      
+      
+== باب مَقَامَ الْمُتَوَفَّى عَنْهَا زَوْجُهَا فِي بَيْتِهَا حَتَّى تَحِلَّ
+include::../../أحاديث/١٢٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٥٤.adoc[leveloffset=+2]
+      
+      
+== باب عِدَّةِ أُمِّ الْوَلَدِ إِذَا تُوُفِّيَ عَنْهَا سَيِّدُهَا
+include::../../أحاديث/١٢٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٥٧.adoc[leveloffset=+2]
+      
+      
+== باب عِدَّةِ الأَمَةِ إِذَا تَوَفِّيَ سَيِّدُهَا أَوْ زَوْجُهَا
+include::../../أحاديث/١٢٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٥٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْعَزْلِ
+include::../../أحاديث/١٢٦٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الإِحْدَادِ
+include::../../أحاديث/١٢٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٤.adoc[leveloffset=+2]
+      
+    

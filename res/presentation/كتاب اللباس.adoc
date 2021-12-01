@@ -1,0 +1,64 @@
+
+= كتاب اللباس
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي لُبْسِ الثِّيَابِ لِلْجَمَالِ بِهَا
+include::../../أحاديث/١٦٥٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٥٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي لُبْسِ الثِّيَابِ الْمُصْبَغَةِ وَالذَّهَبِ
+include::../../أحاديث/١٦٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٥٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي لُبْسِ الْخَزِّ
+include::../../أحاديث/١٦٥٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ لِلنِّسَاءِ لُبْسُهُ مِنَ الثِّيَابِ
+include::../../أحاديث/١٦٦٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٦٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي إِسْبَالِ الرَّجُلِ ثَوْبَهُ
+include::../../أحاديث/١٦٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٦٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي إِسْبَالِ الْمَرْأَةِ ثَوْبَهَا
+include::../../أحاديث/١٦٦٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الاِنْتِعَالِ
+include::../../أحاديث/١٦٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٧٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي لُبْسِ الثِّيَابِ
+include::../../أحاديث/١٦٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٧٣.adoc[leveloffset=+2]
+      
+    

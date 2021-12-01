@@ -1,0 +1,84 @@
+
+= كتاب العتق والولاء
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَنْ أَعْتَقَ شِرْكًا لَهُ فِي مَمْلُوكٍ
+include::../../أحاديث/١٤٦٧.adoc[leveloffset=+2]
+      
+      
+== باب الشَّرْطِ فِي الْعِتْقِ
+      
+== باب مَنْ أَعْتَقَ رَقِيقًا لاَ يَمْلِكُ مَالاً غَيْرَهُمْ
+include::../../أحاديث/١٤٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٦٩.adoc[leveloffset=+2]
+      
+      
+== باب الْقَضَاءِ فِي مَالِ الْعَبْدِ إِذَا عَتَقَ
+include::../../أحاديث/١٤٧٠.adoc[leveloffset=+2]
+      
+      
+== باب عِتْقِ أُمَّهَاتِ الأَوْلاَدِ وَجَامِعِ الْقَضَاءِ فِي الْعَتَاقَةِ
+include::../../أحاديث/١٤٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٧٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجُوزُ مِنَ الْعِتْقِ فِي الرِّقَابِ الْوَاجِبَةِ
+include::../../أحاديث/١٤٧٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٧٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ يَجُوزُ مِنَ الْعِتْقِ فِي الرِّقَابِ الْوَاجِبَةِ
+include::../../أحاديث/١٤٧٧.adoc[leveloffset=+2]
+      
+      
+== باب عِتْقِ الْحَىِّ عَنِ الْمَيِّتِ
+include::../../أحاديث/١٤٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٧٩.adoc[leveloffset=+2]
+      
+      
+== باب فَضْلِ عِتْقِ الرِّقَابِ وَعِتْقِ الزَّانِيَةِ وَابْنِ الزِّنَا
+include::../../أحاديث/١٤٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٨١.adoc[leveloffset=+2]
+      
+      
+== باب مَصِيرِ الْوَلاَءِ لِمَنْ أَعْتَقَ
+include::../../أحاديث/١٤٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٨٥.adoc[leveloffset=+2]
+      
+      
+== باب جَرِّ الْعَبْدِ الْوَلاَءَ إِذَا أُعْتِقَ
+include::../../أحاديث/١٤٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٨٧.adoc[leveloffset=+2]
+      
+      
+== باب مِيرَاثِ الْوَلاَءِ
+include::../../أحاديث/١٤٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٩٠.adoc[leveloffset=+2]
+      
+      
+== باب مِيرَاثِ السَّائِبَةِ وَوَلاَءِ مَنْ أَعْتَقَ الْيَهُودِيُّ وَالنَّصْرَانِيُّ
+include::../../أحاديث/١٤٩١.adoc[leveloffset=+2]
+      
+    

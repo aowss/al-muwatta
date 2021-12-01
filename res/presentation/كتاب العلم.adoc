@@ -1,0 +1,12 @@
+
+= كتاب العلم
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي طَلَبِ الْعِلْمِ
+include::../../أحاديث/١٨٥٩.adoc[leveloffset=+2]
+      
+    

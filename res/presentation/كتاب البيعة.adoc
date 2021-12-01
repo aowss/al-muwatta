@@ -1,0 +1,16 @@
+
+= كتاب البيعة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي الْبَيْعَةِ
+include::../../أحاديث/١٨١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨١٣.adoc[leveloffset=+2]
+      
+    

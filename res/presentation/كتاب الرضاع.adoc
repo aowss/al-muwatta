@@ -1,0 +1,50 @@
+
+= كتاب الرضاع
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب رَضَاعَةِ الصَّغِيرِ
+include::../../أحاديث/١٢٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الرَّضَاعَةِ بَعْدَ الْكِبَرِ
+include::../../أحاديث/١٢٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٨٩.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ مَا جَاءَ فِي الرَّضَاعَةِ
+include::../../أحاديث/١٢٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٩١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٩٢.adoc[leveloffset=+2]
+      
+    

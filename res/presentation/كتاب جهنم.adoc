@@ -1,0 +1,14 @@
+
+= كتاب جهنم
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي صِفَةِ جَهَنَّمَ
+include::../../أحاديث/١٨٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٤٣.adoc[leveloffset=+2]
+      
+    

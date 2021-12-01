@@ -1,0 +1,68 @@
+
+= كتاب الجمعة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْعَمَلِ فِي غُسْلِ يَوْمِ الْجُمُعَةِ
+include::../../أحاديث/٠٢٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٣٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الإِنْصَاتِ يَوْمَ الْجُمُعَةِ وَالإِمَامُ يَخْطُبُ
+include::../../أحاديث/٠٢٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٣٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٣٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٣٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِيمَنْ أَدْرَكَ رَكْعَةً يَوْمَ الْجُمُعَةِ
+include::../../أحاديث/٠٢٣٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِيمَنْ رَعَفَ يَوْمَ الْجُمُعَةِ
+      
+== باب مَا جَاءَ فِي السَّعْىِ يَوْمَ الْجُمُعَةِ
+include::../../أحاديث/٠٢٣٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الإِمَامِ يَنْزِلُ بِقَرْيَةٍ يَوْمَ الْجُمُعَةِ فِي السَّفَرِ
+      
+== باب مَا جَاءَ فِي السَّاعَةِ الَّتِي فِي يَوْمَ الْجُمُعَةِ
+include::../../أحاديث/٠٢٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٤٠.adoc[leveloffset=+2]
+      
+      
+== باب الْهَيْئَةِ وَتَخَطِّي الرِّقَابِ وَاسْتِقْبَالِ الإِمَامِ يَوْمَ الْجُمُعَةِ
+include::../../أحاديث/٠٢٤١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٤٣.adoc[leveloffset=+2]
+      
+      
+== باب الْقِرَاءَةِ فِي صَلاَةِ الْجُمُعَةِ وَالاِحْتِبَاءِ وَمَنْ تَرَكَهَا مِنْ غَيْرِ عُذْرٍ
+include::../../أحاديث/٠٢٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٤٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٤٦.adoc[leveloffset=+2]
+      
+    

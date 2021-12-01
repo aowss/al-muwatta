@@ -1,0 +1,110 @@
+
+= كتاب صلاة الجماعة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب فَضْلِ صَلاَةِ الْجَمَاعَةِ عَلَى صَلاَةِ الْفَذِّ
+include::../../أحاديث/٠٢٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْعَتَمَةِ وَالصُّبْحِ
+include::../../أحاديث/٠٢٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩٧.adoc[leveloffset=+2]
+      
+      
+== باب إِعَادَةِ الصَّلاَةِ مَعَ الإِمَامِ
+include::../../أحاديث/٠٢٩٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٠٢.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي صَلاَةِ الْجَمَاعَةِ
+include::../../أحاديث/٠٣٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٠٥.adoc[leveloffset=+2]
+      
+      
+== باب صَلاَةِ الإِمَامِ وَهُوَ جَالِسٌ
+include::../../أحاديث/٠٣٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٠٨.adoc[leveloffset=+2]
+      
+      
+== باب فَضْلِ صَلاَةِ الْقَائِمِ عَلَى صَلاَةِ الْقَاعِد
+include::../../أحاديث/٠٣٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣١٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صَلاَةِ الْقَاعِدِ فِي النَّافِلَةِ
+include::../../أحاديث/٠٣١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣١٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣١٤.adoc[leveloffset=+2]
+      
+      
+== باب الصَّلاَةِ الْوُسْطَى
+include::../../أحاديث/٠٣١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣١٨.adoc[leveloffset=+2]
+      
+      
+== باب الرُّخْصَةِ فِي الصَّلاَةِ فِي الثَّوْبِ الْوَاحِدِ
+include::../../أحاديث/٠٣١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢٤.adoc[leveloffset=+2]
+      
+      
+== باب الرُّخْصَةِ فِي صَلاَةِ الْمَرْأَةِ فِي الدِّرْعِ وَالْخِمَارِ
+include::../../أحاديث/٠٣٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٣٢٨.adoc[leveloffset=+2]
+      
+    

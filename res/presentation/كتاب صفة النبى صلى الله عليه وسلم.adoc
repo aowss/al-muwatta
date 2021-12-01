@@ -1,0 +1,114 @@
+
+= كتاب صفة النبى صلى الله عليه وسلم
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي صِفَةِ النَّبِيِّ صلى الله عليه وسلم
+include::../../أحاديث/١٦٧٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صِفَةِ عِيسَى ابْنِ مَرْيَمَ عَلَيْهِ السَّلاَمُ وَالدَّجَّالِ
+include::../../أحاديث/١٦٧٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي السُّنَّةِ فِي الْفِطْرَةِ
+include::../../أحاديث/١٦٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٧٧.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الأَكْلِ بِالشِّمَالِ
+include::../../أحاديث/١٦٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٧٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمَسَاكِينِ
+include::../../أحاديث/١٦٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٨١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي مِعَى الْكَافِرِ
+include::../../أحاديث/١٦٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٨٣.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الشَّرَابِ، فِي آنِيَةِ الْفِضَّةِ وَالنَّفْخِ فِي الشَّرَابِ
+include::../../أحاديث/١٦٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٨٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي شُرْبِ الرَّجُلِ وَهُوَ قَائِمٌ
+include::../../أحاديث/١٦٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٨٩.adoc[leveloffset=+2]
+      
+      
+== باب السُّنَّةِ فِي الشُّرْبِ وَمُنَاوَلَتِهِ عَنِ الْيَمِينِ
+include::../../أحاديث/١٦٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩١.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ مَا جَاءَ فِي الطَّعَامِ وَالشَّرَابِ
+include::../../أحاديث/١٦٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٠٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي أَكْلِ اللَّحْمِ
+include::../../أحاديث/١٧٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧١٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي لُبْسِ الْخَاتَمِ
+include::../../أحاديث/١٧١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧١٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي نَزْعِ الْمَعَالِيقِ وَالْجَرَسِ مِنَ الْعُنُقِ
+include::../../أحاديث/١٧١٣.adoc[leveloffset=+2]
+      
+    

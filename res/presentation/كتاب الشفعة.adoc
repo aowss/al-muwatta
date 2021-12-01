@@ -1,0 +1,20 @@
+
+= كتاب الشفعة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا تَقَعُ فِيهِ الشُّفْعَةِ
+include::../../أحاديث/١٣٩٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٤٠٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ تَقَعُ فِيهِ الشُّفْعَةُ
+include::../../أحاديث/١٤٠١.adoc[leveloffset=+2]
+      
+    

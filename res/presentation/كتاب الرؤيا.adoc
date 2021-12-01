@@ -1,0 +1,30 @@
+
+= كتاب الرؤيا
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي الرُّؤْيَا
+include::../../أحاديث/١٧٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٥٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٥٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي النَّرْدِ
+include::../../أحاديث/١٧٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٥٨.adoc[leveloffset=+2]
+      
+    

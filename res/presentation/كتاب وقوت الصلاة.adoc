@@ -1,0 +1,88 @@
+
+= كتاب وقوت الصلاة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب وُقُوتِ الصَّلاَةِ
+include::../../أحاديث/٠٠٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠١٢.adoc[leveloffset=+2]
+      
+      
+== باب وَقْتِ الْجُمُعَةِ
+include::../../أحاديث/٠٠١٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠١٤.adoc[leveloffset=+2]
+      
+      
+== باب مَنْ أَدْرَكَ رَكْعَةً مِنَ الصَّلاَةِ
+include::../../أحاديث/٠٠١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠١٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي دُلُوكِ الشَّمْسِ وَغَسَقِ اللَّيْلِ
+include::../../أحاديث/٠٠١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٢٠.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْوُقُوتِ
+include::../../أحاديث/٠٠٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٢٤.adoc[leveloffset=+2]
+      
+      
+== باب النَّوْمِ عَنِ الصَّلاَةِ
+include::../../أحاديث/٠٠٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٢٦.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الصَّلاَةِ بِالْهَاجِرَةِ
+include::../../أحاديث/٠٠٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٣٠.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنْ دُخُولِ الْمَسْجِدِ، بِرِيحِ الثُّومِ وَتَغْطِيَةِ الْفَمِ
+include::../../أحاديث/٠٠٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٠٣٢.adoc[leveloffset=+2]
+      
+    

@@ -1,0 +1,20 @@
+
+= كتاب صلاة الكسوف
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْعَمَلِ فِي صَلاَةِ الْكُسُوفِ
+include::../../أحاديث/٠٤٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٥٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صَلاَةِ الْكُسُوفِ
+include::../../أحاديث/٠٤٥١.adoc[leveloffset=+2]
+      
+    

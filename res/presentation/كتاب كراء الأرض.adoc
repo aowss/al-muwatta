@@ -1,0 +1,20 @@
+
+= كتاب كراء الأرض
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي كِرَاءِ الأَرْضِ
+include::../../أحاديث/١٣٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٩٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٩٧.adoc[leveloffset=+2]
+      
+    

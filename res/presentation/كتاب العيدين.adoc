@@ -1,0 +1,48 @@
+
+= كتاب العيدين
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْعَمَلِ فِي غُسْلِ الْعِيدَيْنِ وَالنِّدَاءِ فِيهِمَا وَالإِقَامَةِ
+include::../../أحاديث/٠٤٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٣٢.adoc[leveloffset=+2]
+      
+      
+== باب الأَمْرِ بِالصَّلاَةِ قَبْلَ الْخُطْبَةِ فِي الْعِيدَيْنِ
+include::../../أحاديث/٠٤٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٣٥.adoc[leveloffset=+2]
+      
+      
+== باب الأَمْرِ بِالأَكْلِ قَبْلَ الْغُدُوِّ فِي الْعِيدِ
+include::../../أحاديث/٠٤٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٣٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي التَّكْبِيرِ وَالْقِرَاءَةِ فِي صَلاَةِ الْعِيدَيْنِ
+include::../../أحاديث/٠٤٣٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٣٩.adoc[leveloffset=+2]
+      
+      
+== باب تَرْكِ الصَّلاَةِ قَبْلَ الْعِيدَيْنِ وَبَعْدَهُمَا
+include::../../أحاديث/٠٤٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٤١.adoc[leveloffset=+2]
+      
+      
+== باب الرُّخْصَةِ فِي الصَّلاَةِ قَبْلَ الْعِيدَيْنِ وَبَعْدَهُمَا
+include::../../أحاديث/٠٤٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٤٣.adoc[leveloffset=+2]
+      
+      
+== باب غُدُوِّ الإِمَامِ يَوْمَ الْعِيدِ وَانْتِظَارِ الْخُطْبَةِ
+    

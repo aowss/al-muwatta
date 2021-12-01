@@ -1,0 +1,72 @@
+
+= كتاب الفرائض
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مِيرَاثِ الصُّلْبِ
+      
+== باب مِيرَاثِ الرَّجُلِ مِنِ امْرَأَتِهِ وَالْمَرْأَةِ مِنْ زِوْجِهَا
+      
+== باب مِيرَاثِ الأَبِ وَالأُمِّ مِنْ وَلَدِهِمَا
+      
+== باب مِيرَاثِ الإِخْوَةِ لِلأُمِّ
+      
+== باب مِيرَاثِ الإِخْوَةِ لِلأَبِ وَالأُمِّ
+      
+== باب مِيرَاثِ الإِخْوَةِ لِلأَبِ
+      
+== باب مِيرَاثِ الْجَدِّ
+include::../../أحاديث/١٠٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٧٩.adoc[leveloffset=+2]
+      
+      
+== باب مِيرَاثِ الْجَدَّةِ
+include::../../أحاديث/١٠٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٨٢.adoc[leveloffset=+2]
+      
+      
+== باب مِيرَاثِ الْكَلاَلَةِ
+include::../../أحاديث/١٠٨٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْعَمَّةِ
+include::../../أحاديث/١٠٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٨٥.adoc[leveloffset=+2]
+      
+      
+== باب مِيرَاثِ وِلاَيَةِ الْعَصَبَةِ
+      
+== باب مَنْ لاَ مِيرَاثَ لَهُ
+      
+== باب مِيرَاثِ أَهْلِ الْمِلَلِ
+include::../../أحاديث/١٠٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٩٠.adoc[leveloffset=+2]
+      
+      
+== باب مَنْ جُهِلَ أَمْرُهُ بِالْقَتْلِ أَوْ غَيْرِ ذَلِكَ
+include::../../أحاديث/١٠٩١.adoc[leveloffset=+2]
+      
+      
+== باب مِيرَاثِ وَلَدِ الْمُلاَعَنَةِ وَوَلَدِ الزِّنَا
+include::../../أحاديث/١٠٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٩٣.adoc[leveloffset=+2]
+      
+    

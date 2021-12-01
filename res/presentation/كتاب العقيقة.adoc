@@ -1,0 +1,26 @@
+
+= كتاب العقيقة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي الْعَقِيقَةِ
+include::../../أحاديث/١٠٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٧٢.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي الْعَقِيقَةِ
+include::../../أحاديث/١٠٧٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٧٦.adoc[leveloffset=+2]
+      
+    

@@ -1,0 +1,88 @@
+
+= كتاب الكلام
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا يُكْرَهُ مِنَ الْكَلاَمِ
+include::../../أحاديث/١٨١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨١٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُؤْمَرُ بِهِ مِنَ التَّحَفُّظِ فِي الْكَلاَمِ
+include::../../أحاديث/١٨١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨١٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنَ الْكَلاَمِ بِغَيْرِ ذِكْرِ اللَّهِ
+include::../../أحاديث/١٨٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٢٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْغِيْبَةِ
+include::../../أحاديث/١٨٢٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِيمَا يُخَافُ مِنَ اللِّسَانِ
+include::../../أحاديث/١٨٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٢٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي مُنَاجَاةِ اثْنَيْنِ دُونَ وَاحِدٍ
+include::../../أحاديث/١٨٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٢٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الصِّدْقِ وَالْكَذِبِ
+include::../../أحاديث/١٨٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٣٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٣٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي إِضَاعَةِ الْمَالِ وَذِي الْوَجْهَيْنِ
+include::../../أحاديث/١٨٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٣٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي عَذَابِ الْعَامَّةِ بِعَمَلِ الْخَاصَّةِ
+include::../../أحاديث/١٨٣٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٣٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي التُّقَى
+include::../../أحاديث/١٨٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٣٨.adoc[leveloffset=+2]
+      
+      
+== باب الْقَوْلِ إِذَا سَمِعْتَ الرَّعْدَ
+include::../../أحاديث/١٨٣٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي تَرِكَةِ النَّبِيِّ صلى الله عليه وسلم
+include::../../أحاديث/١٨٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٤١.adoc[leveloffset=+2]
+      
+    

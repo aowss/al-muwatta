@@ -1,0 +1,12 @@
+
+= كتاب أسماء النبى صلى الله عليه وسلم
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب أَسْمَاءِ النَّبِيِّ صلى الله عليه وسلم
+include::../../أحاديث/١٨٦١.adoc[leveloffset=+2]
+      
+    

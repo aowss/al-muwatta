@@ -1,0 +1,28 @@
+
+= كتاب السلام
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْعَمَلِ فِي السَّلاَمِ
+include::../../أحاديث/١٧٥٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٦٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي السَّلاَمِ عَلَى الْيَهُودِيِّ وَالنَّصْرَانِيِّ
+include::../../أحاديث/١٧٦١.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ السَّلاَمِ
+include::../../أحاديث/١٧٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٦٥.adoc[leveloffset=+2]
+      
+    

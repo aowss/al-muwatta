@@ -1,0 +1,50 @@
+
+= كتاب الاعتكاف
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب ذِكْرِ الاِعْتِكَافِ
+include::../../أحاديث/٠٦٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٩٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ يَجُوزُ الاِعْتِكَافُ إِلاَّ بِهِ
+include::../../أحاديث/٠٦٩٦.adoc[leveloffset=+2]
+      
+      
+== باب خُرُوجِ الْمُعْتَكِفِ لِلْعِيدِ
+include::../../أحاديث/٠٦٩٧.adoc[leveloffset=+2]
+      
+      
+== باب قَضَاءِ الاِعْتِكَافِ
+include::../../أحاديث/٠٦٩٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٦٩٩.adoc[leveloffset=+2]
+      
+      
+== باب النِّكَاحِ فِي الاِعْتِكَافِ
+      
+== باب مَا جَاءَ فِي لَيْلَةِ الْقَدْرِ
+include::../../أحاديث/٠٧٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٧٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٧٠٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٧٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٧٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٧٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٧٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٧٠٧.adoc[leveloffset=+2]
+      
+    

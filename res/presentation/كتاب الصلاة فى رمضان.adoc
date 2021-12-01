@@ -1,0 +1,28 @@
+
+= كتاب الصلاة فى رمضان
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب التَّرْغِيبِ فِي الصَّلاَةِ فِي رَمَضَانَ
+include::../../أحاديث/٠٢٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٤٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي قِيَامِ رَمَضَانَ
+include::../../أحاديث/٠٢٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٥٤.adoc[leveloffset=+2]
+      
+    

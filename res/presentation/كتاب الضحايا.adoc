@@ -1,0 +1,48 @@
+
+= كتاب الضحايا
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا يُنْهَى عَنْهُ مِنَ الضَّحَايَا
+include::../../أحاديث/١٠٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٣٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُسْتَحَبُّ مِنَ الضَّحَايَا
+include::../../أحاديث/١٠٣٣.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنْ ذَبْحِ الضَّحِيَّةِ، قَبْلَ انْصِرَافِ الإِمَامِ
+include::../../أحاديث/١٠٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٣٥.adoc[leveloffset=+2]
+      
+      
+== باب ادِّخَارِ لُحُومِ الأَضَاحِيِّ
+include::../../أحاديث/١٠٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٣٨.adoc[leveloffset=+2]
+      
+      
+== باب الشَّرِكَةِ فِي الضَّحَايَا وَعَنْ كَمْ تُذْبَحُ الْبَقَرَةُ وَالْبَدَنَةُ
+include::../../أحاديث/١٠٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٤١.adoc[leveloffset=+2]
+      
+      
+== باب الضَّحِيَّةِ عَمَّا فِي بَطْنِ الْمَرْأَةِ وَذِكْرِ أَيَّامِ الأَضْحَى
+include::../../أحاديث/١٠٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٤٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٤٤.adoc[leveloffset=+2]
+      
+    

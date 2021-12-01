@@ -1,0 +1,44 @@
+
+= كتاب الصدقة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب التَّرْغِيبِ فِي الصَّدَقَةِ
+include::../../أحاديث/١٨٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٤٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٤٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي التَّعَفُّفِ عَنِ الْمَسْأَلَةِ
+include::../../أحاديث/١٨٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٥٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٥٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنَ الصَّدَقَةِ
+include::../../أحاديث/١٨٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٥٨.adoc[leveloffset=+2]
+      
+    

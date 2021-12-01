@@ -1,0 +1,52 @@
+
+= كتاب حسن الخلق
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي حُسْنِ الْخُلُقِ
+include::../../أحاديث/١٦٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٤١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٤٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْحَيَاءِ
+include::../../أحاديث/١٦٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٤٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْغَضَبِ
+include::../../أحاديث/١٦٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٤٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمُهَاجَرَةِ
+include::../../أحاديث/١٦٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٥٣.adoc[leveloffset=+2]
+      
+    

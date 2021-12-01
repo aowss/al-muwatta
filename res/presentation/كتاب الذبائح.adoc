@@ -1,0 +1,36 @@
+
+= كتاب الذبائح
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي التَّسْمِيَةِ عَلَى الذَّبِيحَةِ
+include::../../أحاديث/١٠٤٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٤٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجُوزُ مِنَ الذَّكَاةِ فِي حَالِ الضَّرُورَةِ
+include::../../أحاديث/١٠٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٥١.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنَ الذَّبِيحَةِ فِي الذَّكَاةِ
+include::../../أحاديث/١٠٥٢.adoc[leveloffset=+2]
+      
+      
+== باب ذَكَاةِ مَا فِي بَطْنِ الذَّبِيحَةِ
+include::../../أحاديث/١٠٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٥٤.adoc[leveloffset=+2]
+      
+    

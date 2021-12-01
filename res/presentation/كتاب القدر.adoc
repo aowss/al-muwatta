@@ -1,0 +1,32 @@
+
+= كتاب القدر
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب النَّهْىِ عَنِ الْقَوْلِ، بِالْقَدَرِ
+include::../../أحاديث/١٦٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣١.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ مَا جَاءَ فِي أَهْلِ الْقَدَرِ
+include::../../أحاديث/١٦٣٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٣٥.adoc[leveloffset=+2]
+      
+    

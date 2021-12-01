@@ -1,0 +1,104 @@
+
+= كتاب الحدود
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي الرَّجْمِ
+include::../../أحاديث/١٥٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥١٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِيمَنِ اعْتَرَفَ عَلَى نَفْسِهِ بِالزِّنَا
+include::../../أحاديث/١٥١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥١٥.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ مَا جَاءَ فِي حَدِّ الزِّنَا
+include::../../أحاديث/١٥١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥١٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمُغْتَصَبَةِ
+      
+== باب الْحَدِّ فِي الْقَذْفِ وَالنَّفْىِ وَالتَّعْرِيضِ
+include::../../أحاديث/١٥١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٢٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ حَدَّ فِيهِ
+include::../../أحاديث/١٥٢٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجِبُ فِيهِ الْقَطْعُ
+include::../../أحاديث/١٥٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٢٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي قَطْعِ الآبِقِ وَالسَّارِقِ
+include::../../أحاديث/١٥٢٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٣٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٣١.adoc[leveloffset=+2]
+      
+      
+== باب تَرْكِ الشَّفَاعَةِ لِلسَّارِقِ إِذَا بَلَغَ السُّلْطَانَ
+include::../../أحاديث/١٥٣٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٣٣.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْقَطْعِ
+include::../../أحاديث/١٥٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٣٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ قَطْعَ فِيهِ
+include::../../أحاديث/١٥٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٣٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٣٩.adoc[leveloffset=+2]
+      
+    

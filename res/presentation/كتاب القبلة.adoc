@@ -1,0 +1,50 @@
+
+= كتاب القبلة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب النَّهْىِ عَنِ اسْتِقْبَالِ الْقِبْلَةِ وَالإِنْسَانُ عَلَى حَاجَتِهِ
+include::../../أحاديث/٠٤٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٥٩.adoc[leveloffset=+2]
+      
+      
+== باب الرُّخْصَةِ فِي اسْتِقْبَالِ الْقِبْلَةِ لِبَوْلٍ أَوْ غَائِطٍ
+include::../../أحاديث/٠٤٦٠.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الْبُصَاقِ فِي الْقِبْلَةِ
+include::../../أحاديث/٠٤٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٦٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْقِبْلَةِ
+include::../../أحاديث/٠٤٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٦٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي مَسْجِدِ النَّبِيِّ صلى الله عليه وسلم
+include::../../أحاديث/٠٤٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٦٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي خُرُوجِ النِّسَاءِ إِلَى الْمَسَاجِدِ
+include::../../أحاديث/٠٤٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٧٢.adoc[leveloffset=+2]
+      
+    

@@ -1,0 +1,16 @@
+
+= كتاب السهو
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْعَمَلِ فِي السَّهْوِ
+include::../../أحاديث/٠٢٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٢٢٥.adoc[leveloffset=+2]
+      
+    

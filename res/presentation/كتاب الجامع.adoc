@@ -1,0 +1,72 @@
+
+= كتاب الجامع
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الدُّعَاءِ لِلْمَدِينَةِ وَأَهْلِهَا
+include::../../أحاديث/١٦٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي سُكْنَى الْمَدِينَةِ وَالْخُرُوجِ مِنْهَا
+include::../../أحاديث/١٦٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٠٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي تَحْرِيمِ الْمَدِينَةِ
+include::../../أحاديث/١٦١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦١٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي وَبَاءِ الْمَدِينَةِ
+include::../../أحاديث/١٦١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦١٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦١٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي إِجْلاَءِ الْيَهُودِ مِنَ الْمَدِينَةِ
+include::../../أحاديث/١٦١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦١٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي أَمْرِ الْمَدِينَةِ
+include::../../أحاديث/١٦١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الطَّاعُونِ
+include::../../أحاديث/١٦٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٦٢٥.adoc[leveloffset=+2]
+      
+    

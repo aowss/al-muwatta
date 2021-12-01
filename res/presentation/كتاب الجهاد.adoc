@@ -1,0 +1,150 @@
+
+= كتاب الجهاد
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب التَّرْغِيبِ فِي الْجِهَادِ
+include::../../أحاديث/٠٩٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٦٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٦٧.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنْ أَنْ يُسَافَرَ بِالْقُرْآنِ إِلَى أَرْضِ الْعَدُوِّ
+include::../../أحاديث/٠٩٦٨.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنْ قَتْلِ النِّسَاءِ، وَالْوِلْدَانِ، فِي الْغَزْوِ
+include::../../أحاديث/٠٩٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٧٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْوَفَاءِ بِالأَمَانِ
+include::../../أحاديث/٠٩٧٣.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِيمَنْ أَعْطَى شَيْئًا فِي سَبِيلِ اللَّهِ
+include::../../أحاديث/٠٩٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٧٥.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ النَّفْلِ فِي الْغَزْوِ
+include::../../أحاديث/٠٩٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٧٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ يَجِبُ فِيهِ الْخُمْسُ
+      
+== باب مَا يَجُوزُ لِلْمُسْلِمِينَ أَكْلُهُ قَبْلَ الْخُمْسِ
+      
+== باب مَا يُرَدُّ قَبْلَ أَنْ يَقَعَ الْقَسْمُ مِمَّا أَصَابَ الْعَدُوُّ
+include::../../أحاديث/٠٩٧٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي السَّلَبِ فِي النَّفْلِ
+include::../../أحاديث/٠٩٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٨٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي إِعْطَاءِ النَّفْلِ مِنَ الْخُمْسِ
+include::../../أحاديث/٠٩٨١.adoc[leveloffset=+2]
+      
+      
+== باب الْقَسْمِ لِلْخَيْلِ فِي الْغَزْوِ
+include::../../أحاديث/٠٩٨٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْغُلُولِ
+include::../../أحاديث/٠٩٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٨٧.adoc[leveloffset=+2]
+      
+      
+== باب الشُّهَدَاءِ فِي سَبِيلِ اللَّهِ
+include::../../أحاديث/٠٩٨٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٩١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٩٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا تَكُونُ فِيهِ الشَّهَادَةُ
+include::../../أحاديث/٠٩٩٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٩٩٦.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي غُسْلِ الشَّهِيدِ
+include::../../أحاديث/٠٩٩٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنَ الشَّىْءِ يُجْعَلُ فِي سَبِيلِ اللَّهِ
+include::../../أحاديث/٠٩٩٨.adoc[leveloffset=+2]
+      
+      
+== باب التَّرْغِيبِ فِي الْجِهَادِ
+include::../../أحاديث/٠٩٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْخَيْلِ وَالْمُسَابَقَةِ بَيْنَهَا وَالنَّفَقَةِ فِي الْغَزْوِ
+include::../../أحاديث/١٠٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠٠٩.adoc[leveloffset=+2]
+      
+      
+== باب إِحْرَازِ مَنْ أَسْلَمَ مِنْ أَهْلِ الذِّمَّةِ أَرْضَهُ
+      
+== باب الدَّفْنِ فِي قَبْرٍ وَاحِدٍ مَنْ ضَرُورَةٍ
+include::../../أحاديث/١٠١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٠١١.adoc[leveloffset=+2]
+      
+    

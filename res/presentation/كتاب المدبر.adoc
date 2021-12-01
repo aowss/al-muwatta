@@ -1,0 +1,28 @@
+
+= كتاب المدبر
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْقَضَاءِ فِي الْمُدَبَّرِ
+      
+== باب جَامِعِ مَا فِي التَّدْبِيرِ
+      
+== باب الْوَصِيَّةِ فِي التَّدْبِيرِ
+      
+== باب مَسِّ الرَّجُلِ وَلِيدَتَهُ إِذَا دَبَّرَهَا
+include::../../أحاديث/١٥٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٠١.adoc[leveloffset=+2]
+      
+      
+== باب بَيْعِ الْمُدَبَّرِ
+      
+== باب جِرَاحِ الْمُدَبَّرِ
+include::../../أحاديث/١٥٠٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي جِرَاحِ أُمِّ الْوَلَدِ
+    

@@ -1,0 +1,18 @@
+
+= كتاب صلاة الخوف
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب صَلاَةِ الْخَوْفِ
+include::../../أحاديث/٠٤٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٤٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٤٧.adoc[leveloffset=+2]
+      
+    

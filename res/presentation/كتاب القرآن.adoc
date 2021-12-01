@@ -1,0 +1,128 @@
+
+= كتاب القرآن
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الأَمْرِ بِالْوُضُوءِ لِمَنْ مَسَّ الْقُرْآنَ
+include::../../أحاديث/٠٤٧٣.adoc[leveloffset=+2]
+      
+      
+== باب الرُّخْصَةِ فِي قِرَاءَةِ الْقُرْآنِ عَلَى غَيْرِ وُضُوءٍ
+include::../../أحاديث/٠٤٧٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي تَحْزِيبِ الْقُرْآنِ
+include::../../أحاديث/٠٤٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٧٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْقُرْآنِ
+include::../../أحاديث/٠٤٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي سُجُودِ الْقُرْآنِ
+include::../../أحاديث/٠٤٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٨٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي قِرَاءَةِ ‏112.1-1{‏قُلْ هُوَ اللَّهُ أَحَدٌ‏}‏ وَ ‏67.1-1{‏تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ‏}‏
+include::../../أحاديث/٠٤٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩١.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي ذِكْرِ اللَّهِ تَبَارَكَ وَتَعَالَى
+include::../../أحاديث/٠٤٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الدُّعَاءِ
+include::../../أحاديث/٠٤٩٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٤٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٠٨.adoc[leveloffset=+2]
+      
+      
+== باب الْعَمَلِ فِي الدُّعَاءِ
+include::../../أحاديث/٠٥٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٥.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الصَّلاَةِ بَعْدَ الصُّبْحِ وَبَعْدَ الْعَصْرِ
+include::../../أحاديث/٠٥١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢٢.adoc[leveloffset=+2]
+      
+    

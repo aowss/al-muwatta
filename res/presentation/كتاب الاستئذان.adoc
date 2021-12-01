@@ -1,0 +1,132 @@
+
+= كتاب الاستئذان
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الاِسْتِئْذَانِ
+include::../../أحاديث/١٧٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٦٨.adoc[leveloffset=+2]
+      
+      
+== باب التَّشْمِيتِ فِي الْعُطَاسِ
+include::../../أحاديث/١٧٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٧٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الصُّوَرِ وَالتَّمَاثِيلِ
+include::../../أحاديث/١٧٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٧٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي أَكْلِ الضَّبِّ
+include::../../أحاديث/١٧٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٧٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي أَمْرِ الْكِلاَبِ
+include::../../أحاديث/١٧٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٧٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي أَمْرِ الْغَنَمِ
+include::../../أحاديث/١٧٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٨١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٨٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْفَأْرَةِ تَقَعُ فِي السَّمْنِ وَالْبَدْءِ بِالأَكْلِ قَبْلَ الصَّلاَة
+include::../../أحاديث/١٧٨٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٨٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُتَّقَى مِنَ الشُّؤْمِ
+include::../../أحاديث/١٧٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٨٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنَ الأَسْمَاءِ
+include::../../أحاديث/١٧٨٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٩٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْحِجَامَةِ وَأُجْرَةِ الْحَجَّامِ
+include::../../أحاديث/١٧٩١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٩٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٩٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمَشْرِقِ
+include::../../أحاديث/١٧٩٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٩٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي قَتْلِ الْحَيَّاتِ وَمَا يُقَالُ فِي ذَلِكَ
+include::../../أحاديث/١٧٩٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٩٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٩٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُؤْمَرُ بِهِ مِنَ الْكَلاَمِ فِي السَّفَرِ
+include::../../أحاديث/١٧٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٠٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْوِحْدَةِ فِي السَّفَرِ لِلرِّجَالِ وَالنِّسَاءِ
+include::../../أحاديث/١٨٠١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٠٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٠٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُؤْمَرُ بِهِ مِنَ الْعَمَلِ فِي السَّفَرِ
+include::../../أحاديث/١٨٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٠٥.adoc[leveloffset=+2]
+      
+      
+== باب الأَمْرِ بِالرِّفْقِ بِالْمَمْلُوكِ
+include::../../أحاديث/١٨٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٠٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨٠٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمَمْلُوكِ وَهِبَتِهِ
+include::../../أحاديث/١٨٠٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٨١٠.adoc[leveloffset=+2]
+      
+    

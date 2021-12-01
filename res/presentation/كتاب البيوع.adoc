@@ -1,0 +1,292 @@
+
+= كتاب البيوع
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب مَا جَاءَ فِي بَيْعِ الْعُرْبَانِ
+include::../../أحاديث/١٢٩٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي مَالِ الْمَمْلُوكِ
+include::../../أحاديث/١٢٩٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْعُهْدَةِ
+include::../../أحاديث/١٢٩٥.adoc[leveloffset=+2]
+      
+      
+== باب الْعَيْبِ فِي الرَّقِيقِ
+include::../../أحاديث/١٢٩٦.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُفْعَلُ فِي الْوَلِيدَةِ إِذَا بِيعَتْ وَالشَّرْطُ فِيهَا
+include::../../أحاديث/١٢٩٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٢٩٨.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنْ أَنْ يَطَأَ الرَّجُلُ وَلِيدَةً وَلَهَا زَوْجٌ
+include::../../أحاديث/١٢٩٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٠٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي ثَمَرِ الْمَالِ يُبَاعُ أَصْلُهُ
+include::../../أحاديث/١٣٠١.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنْ بَيْعِ الثِّمَارِ، حَتَّى يَبْدُوَ صَلاَحُهَا
+include::../../أحاديث/١٣٠٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٠٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٠٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٠٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي بَيْعِ الْعَرِيَّةِ
+include::../../أحاديث/١٣٠٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٠٧.adoc[leveloffset=+2]
+      
+      
+== باب الْجَائِحَةِ فِي بَيْعِ الثِّمَارِ وَالزَّرْعِ
+include::../../أحاديث/١٣٠٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٠٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجُوزُ فِي اسْتِثْنَاءِ الثَّمَرِ
+include::../../أحاديث/١٣١٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣١١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣١٢.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنْ بَيْعِ التَّمْرِ
+include::../../أحاديث/١٣١٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣١٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣١٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمُزَابَنَةِ وَالْمُحَاقَلَةِ
+include::../../أحاديث/١٣١٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣١٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣١٨.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ بَيْعِ الثَّمَرِ
+      
+== باب بَيْعِ الْفَاكِهَةِ
+      
+== باب بَيْعِ الذَّهَبِ بِالْفِضَّةِ تِبْرًا وَعَيْنًا
+include::../../أحاديث/١٣١٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٢٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الصَّرْفِ
+include::../../أحاديث/١٣٣٠.adoc[leveloffset=+2]
+      
+      
+== باب الْمُرَاطَلَةِ
+include::../../أحاديث/١٣٣١.adoc[leveloffset=+2]
+      
+      
+== باب الْعِينَةِ وَمَا يُشْبِهُهَا
+include::../../أحاديث/١٣٣٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٣٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٣٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ مِنْ بَيْعِ الطَّعَامِ إِلَى أَجَلٍ
+include::../../أحاديث/١٣٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٤١.adoc[leveloffset=+2]
+      
+      
+== باب السُّلْفَةِ فِي الطَّعَامِ
+include::../../أحاديث/١٣٤٢.adoc[leveloffset=+2]
+      
+      
+== باب بَيْعِ الطَّعَامِ بِالطَّعَامِ لاَ فَضْلَ بَيْنَهُمَا
+include::../../أحاديث/١٣٤٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٤٥.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ بَيْعِ الطَّعَامِ
+include::../../أحاديث/١٣٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٤٧.adoc[leveloffset=+2]
+      
+      
+== باب الْحُكْرَةِ وَالتَّرَبُّصِ
+include::../../أحاديث/١٣٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٥٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجُوزُ مَنْ بَيْعِ الْحَيَوَانِ بَعْضِهِ بِبَعْضٍ وَالسَّلْفِ فِيهِ
+include::../../أحاديث/١٣٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٥٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ يَجُوزُ مِنْ بَيْعِ الْحَيَوَانِ
+include::../../أحاديث/١٣٥٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٥٥.adoc[leveloffset=+2]
+      
+      
+== باب بَيْعِ الْحَيَوَانِ بِاللَّحْمِ
+include::../../أحاديث/١٣٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٥٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٥٨.adoc[leveloffset=+2]
+      
+      
+== باب بَيْعِ اللَّحْمِ بِاللَّحْمِ
+      
+== باب مَا جَاءَ فِي ثَمَنِ الْكَلْبِ
+include::../../أحاديث/١٣٥٩.adoc[leveloffset=+2]
+      
+      
+== باب السَّلَفِ وَبَيْعِ الْعُرُوضِ بَعْضِهَا بِبَعْضٍ
+include::../../أحاديث/١٣٦٠.adoc[leveloffset=+2]
+      
+      
+== باب السُّلْفَةِ فِي الْعُرُوضِ
+include::../../أحاديث/١٣٦١.adoc[leveloffset=+2]
+      
+      
+== باب بَيْعِ النُّحَاسِ وَالْحَدِيدِ وَمَا أَشْبَهُهُمَا مِمَّا يُوزَنُ
+      
+== باب النَّهْىِ عَنْ بَيْعَتَيْنِ، فِي بَيْعَةٍ
+include::../../أحاديث/١٣٦٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٦٤.adoc[leveloffset=+2]
+      
+      
+== باب بَيْعِ الْغَرَرِ
+include::../../أحاديث/١٣٦٥.adoc[leveloffset=+2]
+      
+      
+== باب الْمُلاَمَسَةِ وَالْمُنَابَذَةِ
+include::../../أحاديث/١٣٦٦.adoc[leveloffset=+2]
+      
+      
+== باب بَيْعِ الْمُرَابَحَةِ
+      
+== باب الْبَيْعِ عَلَى الْبَرْنَامِجِ
+      
+== باب بَيْعِ الْخِيَارِ
+include::../../أحاديث/١٣٦٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٦٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الرِّبَا فِي الدَّيْنِ
+include::../../أحاديث/١٣٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٧١.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الدَّيْنِ وَالْحَوْلِ
+include::../../أحاديث/١٣٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٧٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الشَّرِكَةِ وَالتَّوْلِيَةِ وَالإِقَالَةِ
+      
+== باب مَا جَاءَ فِي إِفْلاَسِ الْغَرِيمِ
+include::../../أحاديث/١٣٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٧٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَجُوزُ مِنَ السَّلَفِ
+include::../../أحاديث/١٣٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٧٧.adoc[leveloffset=+2]
+      
+      
+== باب مَا لاَ يَجُوزُ مِنَ السَّلَفِ
+include::../../أحاديث/١٣٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٨٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٨١.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُنْهَى عَنْهُ مِنَ الْمُسَاوَمَةِ وَالْمُبَايَعَةِ
+include::../../أحاديث/١٣٨٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٨٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٨٤.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْبُيُوعِ
+include::../../أحاديث/١٣٨٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٨٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٨٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٣٨٨.adoc[leveloffset=+2]
+      
+    

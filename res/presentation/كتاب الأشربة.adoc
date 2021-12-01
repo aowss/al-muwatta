@@ -1,0 +1,48 @@
+
+= كتاب الأشربة
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب الْحَدِّ فِي الْخَمْرِ
+include::../../أحاديث/١٥٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٤١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٤٣.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُنْهَى أَنْ يُنْبَذَ فِيهِ
+include::../../أحاديث/١٥٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٤٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُكْرَهُ أَنْ يُنْبَذَ جَمِيعًا
+include::../../أحاديث/١٥٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٤٧.adoc[leveloffset=+2]
+      
+      
+== باب تَحْرِيمِ الْخَمْرِ
+include::../../أحاديث/١٥٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٥٠.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ تَحْرِيمِ الْخَمْرِ
+include::../../أحاديث/١٥٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٥٥٤.adoc[leveloffset=+2]
+      
+    

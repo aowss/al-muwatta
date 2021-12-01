@@ -1,0 +1,156 @@
+
+= كتاب الجنائز
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب غُسْلِ الْمَيِّتِ
+include::../../أحاديث/٠٥٢٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي كَفَنِ الْمَيِّتِ
+include::../../أحاديث/٠٥٢٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٢٩.adoc[leveloffset=+2]
+      
+      
+== باب الْمَشْىِ أَمَامَ الْجَنَازَةِ
+include::../../أحاديث/٠٥٣٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٣١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٣٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٣٣.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنْ أَنْ تُتْبَعَ الْجَنَازَةُ بِنَارٍ
+include::../../أحاديث/٠٥٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٣٥.adoc[leveloffset=+2]
+      
+      
+== باب التَّكْبِيرِ عَلَى الْجَنَائِزِ
+include::../../أحاديث/٠٥٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٣٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٣٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا يَقُولُ الْمُصَلِّي عَلَى الْجَنَازَةِ
+include::../../أحاديث/٠٥٣٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٤٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٤١.adoc[leveloffset=+2]
+      
+      
+== باب الصَّلاَةِ عَلَى الْجَنَائِزِ بَعْدَ الصُّبْحِ إِلَى الإِسْفَارِ وَبَعْدَ الْعَصْرِ إِلَى الاِصْفِرَارِ
+include::../../أحاديث/٠٥٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٤٣.adoc[leveloffset=+2]
+      
+      
+== باب الصَّلاَةِ عَلَى الْجَنَائِزِ فِي الْمَسْجِدِ
+include::../../أحاديث/٠٥٤٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٤٥.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الصَّلاَةِ عَلَى الْجَنَائِزِ
+include::../../أحاديث/٠٥٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٤٨.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي دَفْنِ الْمَيِّتِ
+include::../../أحاديث/٠٥٤٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥٤.adoc[leveloffset=+2]
+      
+      
+== باب الْوُقُوفِ لِلْجَنَائِزِ وَالْجُلُوسِ عَلَى الْمَقَابِرِ
+include::../../أحاديث/٠٥٥٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥٧.adoc[leveloffset=+2]
+      
+      
+== باب النَّهْىِ عَنِ الْبُكَاءِ عَلَى الْمَيِّتِ
+include::../../أحاديث/٠٥٥٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٥٩.adoc[leveloffset=+2]
+      
+      
+== باب الْحِسْبَةِ فِي الْمُصِيبَةِ
+include::../../أحاديث/٠٥٦٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٦١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٦٢.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْحِسْبَةِ فِي الْمُصِيبَةِ
+include::../../أحاديث/٠٥٦٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٦٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٦٥.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الاِخْتِفَاءِ
+include::../../أحاديث/٠٥٦٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٦٧.adoc[leveloffset=+2]
+      
+      
+== باب جَامِعِ الْجَنَائِزِ
+include::../../أحاديث/٠٥٦٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٦٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٠.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٧٩.adoc[leveloffset=+2]
+      
+include::../../أحاديث/٠٥٨٠.adoc[leveloffset=+2]
+      
+    

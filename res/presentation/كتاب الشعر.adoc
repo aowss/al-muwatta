@@ -1,0 +1,52 @@
+
+= كتاب الشعر
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.9.0
+:revealjs_rtl: true
+:customcss: ./presentation.css
+:revealjs_theme: black
+      
+      
+== باب السُّنَّةِ فِي الشَّعْرِ
+include::../../أحاديث/١٧٣٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٣٤.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٣٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٣٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٣٧.adoc[leveloffset=+2]
+      
+      
+== باب إِصْلاَحِ الشَّعْرِ
+include::../../أحاديث/١٧٣٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٣٩.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي صَبْغِ الشَّعْرِ
+include::../../أحاديث/١٧٤٠.adoc[leveloffset=+2]
+      
+      
+== باب مَا يُؤْمَرُ بِهِ مِنَ التَّعَوُّذِ
+include::../../أحاديث/١٧٤١.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٤٢.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٤٣.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٤٤.adoc[leveloffset=+2]
+      
+      
+== باب مَا جَاءَ فِي الْمُتَحَابِّينِ فِي اللَّهِ
+include::../../أحاديث/١٧٤٥.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٤٦.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٤٧.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٤٨.adoc[leveloffset=+2]
+      
+include::../../أحاديث/١٧٤٩.adoc[leveloffset=+2]
+      
+    
