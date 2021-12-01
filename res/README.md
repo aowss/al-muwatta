@@ -24,25 +24,25 @@ You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-con
 
 The `.adoc` files in the `أحاديث` folder are initially generated using this command:
 
-> java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:content.xml -xsl:hadith.xslt
+> `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:content.xml -xsl:hadith.xslt`
 
 The `الموطأ.adoc` file is initially generated using this command:
 
-> java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:toc.xslt -o:../الموطأ.adoc
+> `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:toc.xslt -o:../الموطأ.adoc`
 
 The `الموطأ.html` file is generated using this command:
 
-> cd ..  
-> asciidoctor -a stylesheet=./res/main.css الموطأ.adoc
+> `cd ..`  
+> `asciidoctor -a stylesheet=./res/main.css الموطأ.adoc`
 
 The `الرجال.html` file is generated using this command:
 
-> cd تراجم  
-> asciidoctor -a stylesheet=../res/main.css الرجال.adoc
+> `cd تراجم`  
+> `asciidoctor -a stylesheet=../res/main.css الرجال.adoc`
 
 ## Presentation
 
 The presentation files per book are generated using these commands:
 
-> java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:presentation.xslt  
-> ./asciidoctor-revealjs ./presentation/*.adoc
+> `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:presentation.xslt`  
+> `./asciidoctor-revealjs ./presentation/*.adoc`
