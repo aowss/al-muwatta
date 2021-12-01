@@ -6,7 +6,7 @@
 
   <xsl:template match="/collection/book">
    <xsl:for-each select="hadith[@index != 0]">
-    <xsl:result-document href="../أحاديث/{format-number(@index, '0000')}.adoc">
+    <xsl:result-document href="../أحاديث/{format-number(@index, '&#x660;&#x660;&#x660;&#x660;', 'Arabic')}.adoc">
 = <xsl:text>الحديث رقم </xsl:text> <xsl:value-of select="format-number(@index, '&#x660;', 'Arabic')"/>
 
 [quote.hadith]

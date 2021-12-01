@@ -17,14 +17,3 @@ echo Generate the الرجال.html
 
 cd تراجم
 asciidoctor -a stylesheet=../res/main.css الرجال.adoc
-
-# Presentations
-
-echo Generate the كتاب.adoc files
-
-cd ../res
-java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:presentation.xslt
-
-echo Generate the presentation files per book
-
-./asciidoctor-revealjs ../*.adoc

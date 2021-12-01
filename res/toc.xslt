@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0">
 
   <xsl:output method="text" omit-xml-declaration="yes" indent="no"/>
+  <xsl:decimal-format name="Arabic" zero-digit="&#x660;"/>
 
   <xsl:template match="/">
 :toc:
@@ -30,7 +31,7 @@
     <xsl:param name="count" as="xs:integer"/>
 
     <xsl:if test="$count > 0">
-include::./أحاديث/<xsl:value-of select="format-number($current, '0000')"/>.adoc[leveloffset=+3]
+include::./أحاديث/<xsl:value-of select="format-number($current, '&#x660;&#x660;&#x660;&#x660;', 'Arabic')"/>.adoc[leveloffset=+3]
       <xsl:apply-templates select="." mode="hadith">
         <xsl:with-param name="current" select="$current + 1"/>
         <xsl:with-param name="count" select="$count - 1"/>
