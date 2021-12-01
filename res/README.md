@@ -32,18 +32,17 @@ The `الموطأ.adoc` file is initially generated using this command:
 
 The `الموطأ.html` file is generated using this command:
 
-> cd ..
+> cd ..  
 > asciidoctor -a stylesheet=./res/main.css الموطأ.adoc
 
 The `الرجال.html` file is generated using this command:
 
-> cd تراجم
+> cd تراجم  
 > asciidoctor -a stylesheet=../res/main.css الرجال.adoc
 
 ## Presentation
 
 The presentation files per book are generated using these commands:
 
-> cd ../res
-> java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:presentation.xslt
-> ./asciidoctor-revealjs ../*.adoc
+> java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:presentation.xslt  
+> ./asciidoctor-revealjs ./presentation/*.adoc
