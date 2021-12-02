@@ -2,6 +2,8 @@
 
 The [`content.xml`](./content.xml) and [`metadata.xml`](./metadata.xml) files were downloaded from [IslamSource.info](http://islamsource.azurewebsites.net/host.aspx?Page=hadithsource&hadithcollection=7&hadithtranslation=en-aisha_abdarahman_attarjumana_yaqub_johnson&hadithdisplay=Display).
 
+These files are then modified to correct eventual mistakes or change small details.
+
 ## Pre-requisites
 
 * [Saxon XSLT Processor](https://www.saxonica.com/welcome/welcome.xml) to process the [`content.xml`](./content.xml) and [`metadata.xml`](./metadata.xml) files
@@ -22,23 +24,25 @@ You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-con
 
 ## HTML
 
-The `.adoc` files in the `أحاديث` folder are initially generated using this command:
+The `.adoc` files in the [`أحاديث`](./أحاديث) folder are **initially** generated based on the [`content.xml`](./content.xml) file using this command:
 
 > `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:content.xml -xsl:hadith.xslt`
 
-The `الموطأ.adoc` file is initially generated using this command:
+The [`الموطأ.adoc`](../الموطأ.adoc) file is **initially** generated using this command:
 
 > `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:toc.xslt -o:../الموطأ.adoc`
 
-The `الموطأ.html` file is generated using this command:
+The [`الموطأ.html`](../الموطأ.html) file is generated using this command:
 
 > `cd ..`  
 > `asciidoctor -a stylesheet=./res/main.css الموطأ.adoc`
 
-The `الرجال.html` file is generated using this command:
+The [`الرجال.html`](./تراجم/الرجال.html) file is generated using this command:
 
 > `cd تراجم`  
 > `asciidoctor -a stylesheet=../res/main.css الرجال.adoc`
+
+When one of the `.adoc` file in the [`أحاديث`](./أحاديث) folder or in the [`تراجم`](./تراجم) folder is updated, the [`الموطأ.html`](../الموطأ.html) file needs to be re-generated.
 
 ## Presentation
 
