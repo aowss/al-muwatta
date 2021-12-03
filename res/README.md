@@ -10,9 +10,13 @@ These files are then modified to correct eventual mistakes or change small detai
 
 You need to copy the `saxon-he-10.6.jar` in this directory
 
-* Java to run Saxon
+* [PlantUML](https://plantuml.com) to process the `puml` files
 
-You need to follow the [instructions](https://www.oracle.com/java/technologies/downloads/) to install Java so that you can run the `java -cp saxon-he-10.6.jar net.sf.saxon.Transform` command
+You need to copy the `plantuml-1.2021.15.jar` in this directory
+
+* Java to run Saxon and PlantUML
+
+You need to follow the [instructions](https://www.oracle.com/java/technologies/downloads/) to install Java so that you can run the `java -cp saxon-he-10.6.jar net.sf.saxon.Transform` and the `java -jar ../res/plantuml-1.2021.15.jar` commands
 
 * [Asciidoctor](https://asciidoctor.org/) to convert the `adoc` files to `html`
 
@@ -42,10 +46,13 @@ You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-con
 > `cd تراجم`  
 > `dot -Tsvg صلة.gv > صلة.svg`
 
+* The [`نسب.svg`](../تراجم/نسب.svg) file is generated using this command:
+
+> `java -jar ../res/plantuml-1.2021.15.jar -tsvg نسب.puml`
+
 * The [`الرجال.html`](../تراجم/الرجال.html) file is generated using this command:
 
 > `asciidoctor -a stylesheet=../res/main.css الرجال.adoc`
-
 
 * The [`أسانيد.html`](../أحاديث/أسانيد.html) file is generated using this command:
 

@@ -4,15 +4,19 @@
 
 == تراجم
 
-include::ابن-شهاب.adoc[leveloffset=+1]
+include::ابن-شهاب.adoc[leveloffset=+2]
 
-include::عمر-بن-عبد-العزيز.adoc[leveloffset=+1]
+include::عمر-بن-عبد-العزيز.adoc[leveloffset=+2]
 
-include::عروة-بن-الزبير.adoc[leveloffset=+1]
+include::عروة-بن-الزبير.adoc[leveloffset=+2]
 
-include::المغيرة-بن-شعبة.adoc[leveloffset=+1]
+include::المغيرة-بن-شعبة.adoc[leveloffset=+2]
 
-include::أبو-مسعود.adoc[leveloffset=+1]
+include::أبو-مسعود.adoc[leveloffset=+2]
+
+== نسبة
+
+image::نسب.svg[]
 
 == صلة
 
