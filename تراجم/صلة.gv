@@ -1,0 +1,11 @@
+graph step2 {
+
+    graph[ nodesep = 0.25, ranksep = 0.3, splines = line ];
+
+    "رسول الله" -- "عائشة" [ label = "زوج", color=blue, labelangle = 45 ];
+    "عائشة" -- "أسماء" [ label = "أخت", labelangle = 45, fontname = "Courier", fontsize = 12 ];
+    "أسماء" -- "الزبير" [ label = "زوج", color=blue, labelangle = 45 ];
+    "أسماء" -- "عروة" [ label = "ابن", color=green, labelangle = 45 ];
+    "الزبير" -- "عروة" [ label = "ابن", color=green, labelangle = 45 ];
+
+}

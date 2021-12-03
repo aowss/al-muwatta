@@ -24,25 +24,36 @@ You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-con
 
 ## HTML
 
-The `.adoc` files in the [`أحاديث`](./أحاديث) folder are **initially** generated based on the [`content.xml`](./content.xml) file using this command:
+* The `.adoc` files in the [`أحاديث`](../أحاديث) folder are **initially** generated based on the [`content.xml`](./content.xml) file using this command:
 
 > `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:content.xml -xsl:hadith.xslt`
 
-The [`الموطأ.adoc`](../الموطأ.adoc) file is **initially** generated using this command:
+* The [`الموطأ.adoc`](../الموطأ.adoc) file is **initially** generated using this command:
 
 > `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:metadata.xml -xsl:toc.xslt -o:../الموطأ.adoc`
 
-The [`الموطأ.html`](../الموطأ.html) file is generated using this command:
+* The [`الموطأ.html`](../الموطأ.html) file is generated using this command:
 
 > `cd ..`  
 > `asciidoctor -a stylesheet=./res/main.css الموطأ.adoc`
 
-The [`الرجال.html`](./تراجم/الرجال.html) file is generated using this command:
+* The [`صلة.svg`](../تراجم/صبة.svg) file is generated using this command:
 
 > `cd تراجم`  
+> `dot -Tsvg صلة.gv > صلة.svg`
+
+* The [`الرجال.html`](../تراجم/الرجال.html) file is generated using this command:
+
 > `asciidoctor -a stylesheet=../res/main.css الرجال.adoc`
 
-When one of the `.adoc` file in the [`أحاديث`](./أحاديث) folder or in the [`تراجم`](./تراجم) folder is updated, the [`الموطأ.html`](../الموطأ.html) file needs to be re-generated.
+
+* The [`أسانيد.html`](../أحاديث/أسانيد.html) file is generated using this command:
+
+> `cd ../أحاديث`  
+> `asciidoctor -a stylesheet=../res/main.css أسانيد.adoc`
+
+
+When one of the `.adoc` file in the [`أحاديث`](../أحاديث) folder or in the [`تراجم`](../تراجم) folder is updated, the [`الموطأ.html`](../الموطأ.html) file needs to be re-generated.
 
 ## Presentation
 

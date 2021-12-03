@@ -1,7 +1,8 @@
 :toc:
 :toc-title: الرجال
+:imagesdir: .
 
-= تراجم
+== تراجم
 
 include::ابن-شهاب.adoc[leveloffset=+1]
 
@@ -12,3 +13,7 @@ include::عروة-بن-الزبير.adoc[leveloffset=+1]
 include::المغيرة-بن-شعبة.adoc[leveloffset=+1]
 
 include::أبو-مسعود.adoc[leveloffset=+1]
+
+== صلة
+
+image::صلة.svg[]

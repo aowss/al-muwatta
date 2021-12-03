@@ -14,6 +14,6 @@ include::../تراجم/ابن-شهاب.adoc[leveloffset=+2]
 include::../تراجم/عمر-بن-عبد-العزيز.adoc[leveloffset=+2]
 include::../تراجم/عروة-بن-الزبير.adoc[leveloffset=+2]
 include::../تراجم/المغيرة-بن-شعبة.adoc[leveloffset=+2]
-include::../تراجم/أبو-مسعود.adoc[leveloffset=+٢]
+include::../تراجم/أبو-مسعود.adoc[leveloffset=+2]
 
 == اللغة
