@@ -46,9 +46,9 @@ You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-con
 > `cd تراجم`  
 > `dot -Tsvg صلة.gv > صلة.svg`
 
-* The [`نسب.svg`](../تراجم/نسب.svg) file is generated using this command:
+* The [`أنساب.svg`](../تراجم/أنساب.svg) file is generated using this command:
 
-> `java -jar ../res/plantuml-1.2021.15.jar -tsvg نسب.puml`
+> `java -jar ../res/plantuml-1.2021.15.jar -tsvg أنساب.puml`
 
 * The [`الرجال.html`](../تراجم/الرجال.html) file is generated using this command:
 

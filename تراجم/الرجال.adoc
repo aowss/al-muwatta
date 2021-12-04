@@ -14,9 +14,9 @@ include::المغيرة-بن-شعبة.adoc[leveloffset=+2]
 
 include::أبو-مسعود.adoc[leveloffset=+2]
 
-== نسبة
+== أنساب
 
-image::نسب.svg[]
+image::أنساب.svg[]
 
 == صلة
 
