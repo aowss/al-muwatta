@@ -19,8 +19,16 @@ cd تراجم
 dot -Tsvg صلة.gv > صلة.svg
 java -jar ../res/plantuml-1.2021.15.jar -tsvg أنساب.puml
 asciidoctor -a stylesheet=../res/main.css الرجال.adoc
+cd ..
 
 echo Generate the أسانيد.html
 
-cd ../أحاديث
+cd أحاديث
 asciidoctor -a stylesheet=../res/main.css أسانيد.adoc
+cd ..
+
+echo Generate the فقه.html
+
+cd فقه
+asciidoctor -a stylesheet=../res/main.css فقه.adoc
+cd ..

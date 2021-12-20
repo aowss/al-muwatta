@@ -1,0 +1,14 @@
+:toc:
+:toc-title: فهرس
+:toclevels: 1
+:chapter-number: ٠
+:example-number: ٠
+:figure-number: ٠
+:footnote-number: ٠
+:listing-number: ٠
+:table-number: ٠
+:table-caption: قائمة
+
+= فقه
+
+include::./أوقات الصلاة.adoc[leveloffset=+1]

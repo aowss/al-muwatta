@@ -6,7 +6,14 @@
 
   <xsl:template match="/">
 :toc:
-:toc-title: فهرس
+:toc-title: الفهرس
+:chapter-number: ٠
+:example-number: ٠
+:figure-number: ٠
+:listing-number: ٠
+:table-number: ٠
+:table-caption: قائمة
+
 
 = الموطأ
     <xsl:apply-templates/>
