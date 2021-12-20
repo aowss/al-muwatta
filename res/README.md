@@ -70,7 +70,7 @@ You need to follow the [instructions](https://graphviz.org/download/) to globall
 
 > `asciidoctor -a stylesheet=../res/main.css فقه.adoc`
 
-When one of the `.adoc` file in the [`أحاديث`](../أحاديث) folder or in the [`تراجم`](../تراجم) folder is updated, the [`الموطأ.html`](../الموطأ.html) file needs to be re-generated.
+When one of the `.adoc` file in the [`أحاديث`](../أحاديث), [`تراجم`](../تراجم) or [`فقه`](../فقه) folder is updated, the [`الموطأ.html`](../الموطأ.html) file needs to be re-generated.
 
 ### Customization
 
