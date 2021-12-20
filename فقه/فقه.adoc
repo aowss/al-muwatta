@@ -1,5 +1,5 @@
 :toc:
-:toc-title: فهرس
+:toc-title: الفهرس
 :toclevels: 1
 :chapter-number: ٠
 :example-number: ٠
