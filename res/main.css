@@ -22,11 +22,28 @@ ul li ul, ul li ol {
   text-align: right;
 }
 
-.hadith>.content>pre {
+.hadith>.content>pre, .hadith > blockquote {
   border: 2px solid black;
   font-size: large;
+  font-style: normal;
   background-color: beige;
   color: black;
+  padding-top: 15px;
+  padding-right: 25px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+}
+
+.quran>.content>pre, .quran > blockquote {
+  border: 2px solid blue;
+  font-size: x-large;
+  font-style: normal;
+  background-color: darkblue;
+  color: white;
+  padding-top: 15px;
+  padding-right: 25px;
+  padding-bottom: 15px;
+  padding-left: 25px;
 }
 
 .admonitionblock td.content > .title, .audioblock > .title, .exampleblock > .title, .imageblock > .title, .listingblock > .title, .literalblock > .title, .stemblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, table.tableblock > .title, .verseblock > .title, .videoblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title {
