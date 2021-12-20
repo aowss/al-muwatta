@@ -56,7 +56,7 @@ You need to follow the [instructions](https://graphviz.org/download/) to globall
 
 > `asciidoctor -a stylesheet=./res/main.css الموطأ.adoc`
 
-* The [`صلة.svg`](./تراجم/صبة.svg) file is generated using this command from the `تراجم` directory:
+* The [`صلة.svg`](./تراجم/صلة.svg) file is generated using this command from the `تراجم` directory:
 
 > `dot -Tsvg صلة.gv > صلة.svg`
 
@@ -107,5 +107,11 @@ The presentation files per book are generated using these commands from the the 
 
 ## Using Docbook
 
-> `java -cp saxon-he-10.6.jar net.sf.saxon.Transform -t -s:../فقه/أوقات\ الصلاة.xml -xsl:withArabic.xsl -o:./أوقات\ الصلاة.html`  
-> `java -jar ./docbook-xslTNG-1.6.0/libs/docbook-xslTNG-1.6.0.jar ../فقه/أوقات\ الصلاة.xml -o:./أوقات\ الصلاة.html`
+The [`فقه.docbook.html`](./فقه/فقه.docbook.html) file is generated using this command from the `فقه` directory:
+
+> `asciidoctor -a lang=ar -b docbook فقه.adoc`  
+> `java -cp ../res/saxon-he-10.6.jar net.sf.saxon.Transform -t -s:./فقه.xml -xsl:../res/withArabic.xsl -o:./فقه.docbook.html`
+
+or
+
+> `java -jar ../res/docbook-xslTNG-1.6.0/libs/docbook-xslTNG-1.6.0.jar فقه.xml -xsl:../res/withArabic.xsl -o:./فقه.docbook.html`

@@ -32,3 +32,19 @@ echo Generate the فقه.html
 cd فقه
 asciidoctor -a stylesheet=../res/main.css فقه.adoc
 cd ..
+
+echo Generate the فقه.epub
+
+cd فقه
+# asciidoctor -r asciidoctor-epub3 -a lang=ar -a epub3-stylesdir=../res/epub-css -b epub3 فقه.adoc
+# asciidoctor-epub3 -a lang=ar -a epub3-stylesdir=../res/epub-css -D epub -a ebook-extract فقه.adoc
+asciidoctor-epub3 -a lang=ar -a epub3-stylesdir=../res/epub-css فقه.adoc
+cd ..
+
+echo Generate the فقه.docbook.html
+
+cd فقه
+asciidoctor -a lang=ar -b docbook فقه.adoc
+# java -cp ../res/saxon-he-10.6.jar net.sf.saxon.Transform -t -s:./فقه.xml -xsl:../res/withArabic.xsl -o:./فقه.docbook.html
+java -jar ../res/docbook-xslTNG-1.6.0/libs/docbook-xslTNG-1.6.0.jar فقه.xml -xsl:../res/withArabic.xsl -o:./فقه.docbook.html
+cd ..
