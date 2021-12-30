@@ -1,0 +1,157 @@
+<html dir="rtl" lang="ar">
+  <head>
+    <meta charset="UTF-8">
+    <title>العلماء</title>
+    <link rel='stylesheet' href='../styles.css' type='text/css' />
+    <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script>
+    <script>
+        var tl;
+        function onLoad() {
+            var eventSourceMaliki = new Timeline.DefaultEventSource(0);
+            var eventSourceHanafi = new Timeline.DefaultEventSource(0);
+            
+            var theme = Timeline.ClassicTheme.create();
+            theme.event.bubble.width = 320;
+            theme.ether.backgroundColors = [
+                "#D1CECA",
+                "#E7DFD6",
+                "#E8E8F4",
+                "#D0D0E8"
+            ];
+            
+            var zones = [
+                {   start:    "500",
+                    end:      "2100",
+                    magnify:  15,
+                    unit:     Timeline.DateTime.DECADE
+                },
+                {   start:    "1800",
+                    end:      "2100",
+                    magnify:  3,
+                    unit:     Timeline.DateTime.YEAR,
+                    multiple: 1
+                }
+            ];
+            var zones2 = [
+                {   start:    "500",
+                    end:      "2100",
+                    magnify:  5,
+                    unit:     Timeline.DateTime.DECADE
+                },
+                {   start:    "1800",
+                    end:      "2100",
+                    magnify:  3,
+                    unit:     Timeline.DateTime.YEAR,
+                    multiple: 10
+                }
+            ];
+            
+            var d = Timeline.DateTime.parseGregorianDateTime("0");
+            var bandInfos = [
+                Timeline.createHotZoneBandInfo({
+                    width:          "7%", 
+                    intervalUnit:   Timeline.DateTime.CENTURY, 
+                    intervalPixels: 70,
+                    zones:          zones2,
+                    eventSource:    eventSourceMaliki,
+                    date:           d,
+                    overview:       true,
+                    theme:          theme
+                }),
+                Timeline.createHotZoneBandInfo({
+                    width:          "32%",
+                    intervalUnit:   Timeline.DateTime.CENTURY, 
+                    intervalPixels: 250,
+                    zones:          zones,
+                    eventSource:    eventSourceMaliki,
+                    date:           d,
+                    timeZone:       -6,
+                    theme:          theme
+                }),
+                Timeline.createHotZoneBandInfo({
+                    width:          "54%", 
+                    intervalUnit:   Timeline.DateTime.CENTURY, 
+                    intervalPixels: 250,
+                    zones:          zones,
+                    eventSource:    eventSourceHanafi,
+                    date:           d,
+                    timeZone:       -6,
+                    theme:          theme
+                }),
+                Timeline.createHotZoneBandInfo({
+                    width:          "7%", 
+                    intervalUnit:   Timeline.DateTime.CENTURY, 
+                    intervalPixels: 70,
+                    zones:          zones2,
+                    eventSource:    eventSourceHanafi,
+                    date:           d,
+                    overview:       true,
+                    theme:          theme
+                })
+            ];
+            bandInfos[0].syncWith = 1;
+            bandInfos[0].highlight = true;
+            
+            bandInfos[2].syncWith = 1;
+            bandInfos[3].syncWith = 2;
+            bandInfos[3].highlight = true;
+            
+            tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
+            tl.loadXML("maliki.xml", function(xml, url) {
+                eventSourceMaliki.loadXML(xml, url);
+                document.getElementById("maliki-event-count").innerHTML = eventSourceMaliki.getCount();
+            });
+            tl.loadXML("hanafi.xml", function(xml, url) {
+                eventSourceHanafi.loadXML(xml, url);
+                document.getElementById("hanafi-event-count").innerHTML = eventSourceHanafi.getCount();
+            });
+            
+            setupFilterHighlightControls(document.getElementById("maliki-controls"), tl, [0,1], theme);
+            setupFilterHighlightControls(document.getElementById("hanafi-controls"), tl, [2,3], theme);
+        }
+        function centerTimeline(year) {
+            tl.getBand(0).setCenterVisibleDate(new Date(year, 0, 1));
+        }
+        
+        var resizeTimerID = null;
+        function onResize() {
+            if (resizeTimerID == null) {
+                resizeTimerID = window.setTimeout(function() {
+                    resizeTimerID = null;
+                    tl.layout();
+                }, 500);
+            }
+        }
+    </script>
+  </head>
+  <body onload="onLoad();" onresize="onResize();">
+  
+    <div id="header">
+      <h1>علماء المذاهب</h1>
+    </div>
+  
+    <div id="content">
+    
+      <div style="width: 100%">
+          <table style="text-align: center; width: 100%">
+              <tr>
+                  <td><a href="javascript:centerTimeline(600);">600 AD</a></td>
+                  <td><a href="javascript:centerTimeline(800);">800 AD</a></td>
+                  <td><a href="javascript:centerTimeline(1000);">1000 AD</a></td>
+                  <td><a href="javascript:centerTimeline(1200);">1200 AD</a></td>
+                  <td><a href="javascript:centerTimeline(1400);">1400 AD</a></td>
+                  <td><a href="javascript:centerTimeline(1700);">1700 AD</a></td>
+                  <td><a href="javascript:centerTimeline(2000);">2000 AD</a></td>
+              </tr>
+          </table>
+      </div>
+    
+      <div class="controls" id="maliki-controls"></div>
+      
+      <div id="tl" class="timeline-default" style="height: 800px"></div>
+      
+      <div class="controls" id="hanafi-controls"></div>
+    </div>
+    
+  </body>
+</html>

@@ -1,0 +1,18 @@
+<data>
+	<event start="Sep 01 2021 13:00:00 GMT" end="Sep 01 2021 16:54:00 GMT" isDuration="true" color="blue" title="">
+	</event>
+	<event start="Sep 01 2021 16:44:00 GMT" end="Sep 01 2021 19:17:00 GMT" isDuration="true" color="green" title="">
+	</event>
+	<event start="Sep 01 2021 19:47:00 GMT" end="Sep 01 2021 20:07:00 GMT" isDuration="true" color="brown" title="مالك">
+	</event>
+	<event start="Sep 01 2021 19:47:00 GMT" end="Sep 01 2021 21:43:00 GMT" isDuration="true" color="brown" title="ابن رشد والقاضي أبو بكر بن العربي والباجي">
+	</event>
+	<event start="Sep 01 2021 21:43:00 GMT" end="Sep 01 2021 23:56:00 GMT" isDuration="true" color="black" title="">
+	</event>
+	<event start="Sep 02 2021 04:11:00 GMT" end="Sep 02 2021 05:11:00 GMT" isDuration="true" color="orange" title="ابن القاسم والحطاب وخليل وابن عبد الحكم وهو مذهب المدوَّنة">
+		- النفراوي في الفواكه الدواني على رسالة ابن أبي زيد القيرواني
+	</event>
+	<event start="Sep 02 2021 04:11:00 GMT" end="Sep 02 2021 05:53:00 GMT" isDuration="true" color="orange" title="المشهور">
+		- النفراوي في الفواكه الدواني على رسالة ابن أبي زيد القيرواني
+	</event>
+</data>

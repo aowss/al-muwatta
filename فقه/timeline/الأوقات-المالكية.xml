@@ -1,0 +1,14 @@
+<data>
+	<event start="Sep 01 2021 13:00:00 GMT" title="زاول الشمس"></event>
+	<event start="Sep 01 2021 16:44:00 GMT" title="ظِلُّ الرَّجُلِ مِثْلَ شَخْصِهِ"></event>
+	<event start="Sep 01 2021 16:44:00 GMT" end="Sep 01 2021 16:54:00 GMT" isDuration="true" title="قدر أربع ركعات"></event>
+	<event start="Sep 01 2021 19:17:00 GMT" textColor="brown" title="اصفرار الشمس"></event>
+	<event start="Sep 01 2021 19:47:00 GMT" title="غروب الشمس"></event>
+	<event start="Sep 01 2021 19:47:00 GMT" end="Sep 01 2021 20:07:00 GMT" isDuration="true" title="قدر ما يكفي لتحصيل شروط الصلاة وأدائها"></event>
+	<event start="Sep 01 2021 21:43:00 GMT" title="مغيب الشفق الأحمر"></event>
+	<event start="Sep 01 2021 23:56:00 GMT" title="ثلث اللَّيْلِ"></event>
+	<event start="Sep 02 2021 04:11:00 GMT" title="طلوع الفجر"></event>
+	<event start="Sep 02 2021 05:11:00 GMT" textColor="brown" title="الاسفار الأعلى"></event>
+	<event start="Sep 02 2021 05:53:00 GMT" textColor="brown" title="الاسفار البين"></event>
+	<event start="Sep 02 2021 06:13:00 GMT" title="طلوع الشمس"></event>
+</data>

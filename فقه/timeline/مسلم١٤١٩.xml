@@ -1,0 +1,22 @@
+<data>
+	<event start="Sep 01 2021 13:00:00 GMT" end="Sep 01 2021 16:44:00 GMT" isDuration="true" color="blue" title="صلاة الظهر">
+		- إِذَا زَالَتِ الشَّمْسُ
+		- كَانَ ظِلُّ الرَّجُلِ كَطُولِهِ مَا لَمْ يَحْضُرِ الْعَصْرُ
+	</event>
+	<event start="Sep 01 2021 16:44:00 GMT" end="Sep 01 2021 19:17:00 GMT" isDuration="true" color="green" title="صلاة العصر">
+		- 
+		- مَا لَمْ تَصْفَرَّ الشَّمْسُ
+	</event>
+	<event start="Sep 01 2021 19:47:00 GMT" end="Sep 01 2021 21:43:00 GMT" isDuration="true" color="brown" title="صلاة المغرب">
+		- 
+		- مَا لَمْ يَغِبِ الشَّفَقُ
+	</event>
+	<event start="Sep 01 2021 21:43:00 GMT" end="Sep 02 2021 00:57:00 GMT" isDuration="true" color="black" title="صلاة العشاء">
+		- 
+		- إِلَى نِصْفِ اللَّيْلِ الأَوْسَطِ
+	</event>
+	<event start="Sep 02 2021 04:11:00 GMT" end="Sep 02 2021 06:13:00 GMT" isDuration="true" color="orange" title="صلاة الصبج">
+		- مِنْ طُلُوعِ الْفَجْرِ
+		- مَا لَمْ تَطْلُعِ الشَّمْسُ
+	</event>
+</data>

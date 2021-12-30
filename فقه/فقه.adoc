@@ -1,13 +1,17 @@
 :toc:
 :toc-title: الفهرس
-:toclevels: 1
+:toclevels: 2
+
 :chapter-number: ٠
 :example-number: ٠
 :figure-number: ٠
+:figure-caption: شكل
 :footnote-number: ٠
 :listing-number: ٠
 :table-number: ٠
 :table-caption: قائمة
+:icons: font
+:imagesdir: res
 
 = فقه
 

@@ -9,27 +9,33 @@
 <style>
 @import "https://cdn.jsdelivr.net/gh/asciidoctor/asciidoctor@2.0/data/stylesheets/asciidoctor-default.css";
 
-/* * {
-  direction: rtl;
-  text-align: right;
-} */
-
+/* overall direction */
 body, p, table, h, h1, h2, h3, h4, h5, h6, div, div.title {
   direction: rtl;
 }
 
+/* table of content indentation */
 ul li ul, ul li ol {
     margin-right: 1.25em;
     margin-bottom: 0;
 }
 
+/* footnote number spacing */
 #footnotes .footnote a:first-of-type {
   margin-left: 0em
 }
 
+/* admonition block table border placement */
+.admonitionblock > table td.content {
+  border-left: hidden;
+  border-right: 1px solid #dddddf;
+}
+
+/*
 .imageblock .title, .paragraph .title, .ulist .title, caption.title {
   text-align: right;
 }
+*/
 
 .hadith>.content>pre, .hadith > blockquote {
   border: 2px solid black;
@@ -55,6 +61,7 @@ ul li ul, ul li ol {
   padding-left: 25px;
 }
 
+/* paragraph title alignment */
 .admonitionblock td.content > .title, .audioblock > .title, .exampleblock > .title, .imageblock > .title, .listingblock > .title, .literalblock > .title, .stemblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, table.tableblock > .title, .verseblock > .title, .videoblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title {
   text-align: right;
 }

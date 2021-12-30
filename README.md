@@ -86,7 +86,7 @@ The [`main.css`](./res/main.css) stylesheet is used to:
 - right-indent the list,
 - add some styles.
 
-The [Localization and numbering attributes](https://docs.asciidoctor.org/asciidoc/latest/attributes/document-attributes-ref/#builtin-attributes-i18n) are used to using arabic-indic numbers for footnotes, tables, ... and to set Arabic titles for ToC, ...
+The [Localization and numbering attributes](https://docs.asciidoctor.org/asciidoc/latest/attributes/document-attributes-ref/#builtin-attributes-i18n) are set to use arabic-indic numbers for footnotes, tables, ... and to set Arabic titles for ToC, ...
 
 ## EPUB 3
 
@@ -96,7 +96,7 @@ The [`فقه.epub`](./فقه/فقه.epub) file is generated using this command f
 
 or
 
-> `asciidoctor -r asciidoctor-epub3 -a lang=ar -a epub3-stylesdir=res/epub-css -b epub3 الموطأ.adoc`
+> `asciidoctor -r asciidoctor-epub3 -a lang=ar -a epub3-stylesdir=res/epub-css -b epub3 فقه.adoc`
 
 ## Presentation
 
