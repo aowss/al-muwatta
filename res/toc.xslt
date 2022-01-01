@@ -7,13 +7,18 @@
   <xsl:template match="/">
 :toc:
 :toc-title: الفهرس
+
 :chapter-number: ٠
 :example-number: ٠
 :figure-number: ٠
+:figure-caption: شكل
+:footnote-number: ٠
 :listing-number: ٠
 :table-number: ٠
 :table-caption: قائمة
 
+:icons: font
+:data-uri:
 
 = الموطأ
     <xsl:apply-templates/>

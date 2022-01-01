@@ -1,10 +1,10 @@
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset='UTF-8'>
     <title>أوقات الصلاة</title>
     <link rel='stylesheet' href='../styles.css' type='text/css' />
-    <script src="http://simile.mit.edu/timeline/api/timeline-api.js" type="text/javascript"></script>
-    <script type="text/javascript">
+    <script src='http://simile.mit.edu/timeline/api/timeline-api.js' type='text/javascript'></script>
+    <script type='text/javascript'>
       function createTimeline(sources, theme, id) {
         const bandInfos = []
         sources.forEach(name => addBand(bandInfos, theme, name))
@@ -12,7 +12,7 @@
         //  sync bands
         for (let i = 0; i < bandInfos.length - 1; i++) {
           bandInfos[i].syncWith = bandInfos.length - 1;
-          bandInfos[i].width = Math.floor(100 / bandInfos.length) + "%"
+          bandInfos[i].width = Math.floor(100 / bandInfos.length) + '%'
         }
 
         //  set width for last band
@@ -22,7 +22,7 @@
           .map(value => value.substring(0, value.length - 1))
           .map(parseFloat)
           .reduce((previous, current) => previous + current, 0)
-        bandInfos[bandInfos.length - 1].width = 100 - total + "%"
+        bandInfos[bandInfos.length - 1].width = 100 - total + '%'
 
         Timeline.create(document.getElementById(id), bandInfos);
       }
@@ -32,7 +32,7 @@
         bandInfos.push(
           Timeline.createBandInfo({
               eventSource:    eventSource,
-              date:           "Sep 01 2021 22:00:00 GMT",
+              date:           'Sep 01 2021 22:00:00 GMT',
               intervalUnit:   Timeline.DateTime.HOUR, 
               intervalPixels: 100,
               theme:          theme,
@@ -40,42 +40,48 @@
           })
         );
         
-        Timeline.loadXML("./" + name + ".xml", function(xml, url) { eventSource.loadXML(xml, url); });
+        Timeline.loadXML('./' + name + '.xml', function(xml, url) { eventSource.loadXML(xml, url); });
       }
 
       function onLoad() {
         var theme = Timeline.ClassicTheme.create();
-        theme.event.label.width = 350;
+        theme.event.label.width = 450;
         theme.ether.backgroundColors = [
-            "#EEE",
-            "#FFF",
-            "#EEE",
-            "#FFF",
-            "#EEE",
-            "#FFF",
-            "#EEE",
-            "#DDD"
+            '#EEE',
+            '#FFF',
+            '#EEE',
+            '#FFF',
+            '#EEE',
+            '#FFF',
+            '#EEE',
+            '#DDD'
         ]
 
         const الأحاديث = ['النسائي٥١٨', 'النسائي٥٣١', 'مسلم١٤١٩', 'مسلم١٤٢٢', 'مسلم١٤٢٤', 'مالك٥', 'لبخاري٥٧١', 'الأوقات']
-        createTimeline(الأحاديث, theme, "الأحاديث")
+        createTimeline(الأحاديث, theme, 'الأحاديث')
 
-        // const المذاهب = ['المالكية', 'الحنفية', 'الشافعية', 'الحنبلية']
-        const المذاهب = ['المالكية']
+        theme.ether.backgroundColors = ['#EEE', '#FFF', '#DDD']
 
-        المذاهب
-          .map(name => [name, `الأوقات-${name}`])
-          .forEach(sources => createTimeline(sources, theme, sources[0]))
+        const المالكية = ['المالكية', 'المالكية-١', 'الأوقات-المالكية']
+        createTimeline(المالكية, theme, 'المالكية')
 
+        const الحنفية = ['الحنفية', 'الحنفية-١', 'الأوقات-الحنفية']
+        createTimeline(الحنفية, theme, 'الحنفية')
+
+        const الشافعية = ['الشافعية', 'الشافعية-١', 'الأوقات-الشافعية']
+        createTimeline(الشافعية, theme, 'الشافعية')
+
+        const الحنابلة = ['الحنابلة', 'الحنابلة-١', 'الأوقات-الحنابلة']
+        createTimeline(الحنابلة, theme, 'الحنابلة')
       }
     </script>
   </head>
 
-  <body onload="onLoad();">
+  <body onload='onLoad();'>
     <br/>
-    <h1 direction="rtl" lang="ar" style="text-align: center;">الأحاديث</h1>
-    <div id="الأحاديث" style="height: 600px; border: 1px solid #aaa"></div>
-    <div direction="rtl" lang="ar" style="text-align: right;"> 
+    <h1 direction='rtl' lang='ar' style='text-align: center;'>الأحاديث</h1>
+    <div id='الأحاديث' style='height: 600px; border: 1px solid #aaa'></div>
+    <div direction='rtl' lang='ar' style='text-align: right;'> 
       <p>
         المواقيت مقتبسة من الأحاديث التالية
         <ul>
@@ -91,20 +97,20 @@
     </div>
 
     <br/>
-    <h1 style="text-align: center;">المذهب المالكي</h1>
-    <div id="المالكية" style="height: 200px; border: 1px solid #aaa"></div>
+    <h1 style='text-align: center;'>المذهب المالكي</h1>
+    <div id='المالكية' style='height: 300px; border: 1px solid #aaa'></div>
 
     <br/>
-    <h1 style="text-align: center;">المذهب الحنفي</h1>
-    <div id="الحنفية" style="height: 200px; border: 1px solid #aaa"></div>
+    <h1 style='text-align: center;'>المذهب الحنفي</h1>
+    <div id='الحنفية' style='height: 300px; border: 1px solid #aaa'></div>
 
     <br/>
-    <h1 style="text-align: center;">المذهب الشافعي</h1>
-    <div id="الشافعية" style="height: 200px; border: 1px solid #aaa"></div>
+    <h1 style='text-align: center;'>المذهب الشافعي</h1>
+    <div id='الشافعية' style='height: 400px; border: 1px solid #aaa'></div>
 
     <br/>
-    <h1 style="text-align: center;">المذهب الحنبلي</h1>
-    <div id="الحنبلية" style="height: 200px; border: 1px solid #aaa"></div>
+    <h1 style='text-align: center;'>المذهب الحنبلي</h1>
+    <div id='الحنابلة' style='height: 400px; border: 1px solid #aaa'></div>
 
   </body>
 

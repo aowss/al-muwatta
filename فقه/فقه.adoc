@@ -10,8 +10,10 @@
 :listing-number: ٠
 :table-number: ٠
 :table-caption: قائمة
+
 :icons: font
 :imagesdir: res
+:data-uri:
 
 = فقه
 
