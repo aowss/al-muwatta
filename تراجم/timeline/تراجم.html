@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>تراجم</title>
+
+        <style type="text/css">
+            body, html {
+                font-family: sans-serif;
+            }
+        </style>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css"/>
+
+        <script type="text/javascript">
+            function loadData(fileName, dataset) {
+                return fetch(`./${fileName}.json`)
+                    .then(response => response.json())
+                    .then(data => dataset.add(data))
+            }
+
+            function onLoad() {
+                // DOM element where the Timeline will be attached
+                const container = document.getElementById('تراجم');
+
+                // Configuration for the Timeline
+                const options = {
+                    align: 'right'
+                };
+
+                // Create a DataSet ( allows two way data-binding )
+                const items = new vis.DataSet();
+
+                var groups = new vis.DataSet([
+                    {"content": "الخلافة", "id": "الخلافة", "value": 1, nestedGroups: ["الراشدة", "الأموية"]},
+                    {"content": "الرسول", "id": "الرسول", "value": 2}
+                ])
+
+                groups.add([
+                    {
+                        id: "الراشدة",
+                        content: "الراشدة",
+                    },
+                    {
+                        id: "الأموية",
+                        content: "الأموية",
+                    }
+                ]);
+
+                Promise
+                    .all([
+                        loadData('الخلافة', items),
+                        loadData('عهد الرسول', items)
+                    ])
+                    .then(_ => new vis.Timeline(container, items, groups, options))
+            }
+        </script>
+    </head>
+
+    <body onload='onLoad();'>
+        <div id="تراجم"></div>
+    </body>
+
+</html>
