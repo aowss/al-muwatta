@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>تراجم</title>
+        <title>تأريخ</title>
 
         <style type="text/css">
             body, html {
@@ -13,7 +13,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
 
         <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css"/>
-        <link href="./main.css" rel="stylesheet" type="text/css"/>
+        <link href="main.css" rel="stylesheet" type="text/css"/>
 
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
               integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
@@ -85,9 +85,9 @@
     </head>
 
     <body onload='loadTimeline();'>
-        <div id="تراجم"></div>
+        <div id="تأريخ"></div>
         <br/>
-        <div id="map" style ="width:1600px; height:1200px;"></div>
+        <div id="أماكن" style ="width:1600px; height:1200px;"></div>
         <script type="text/javascript">
             // Creating map options
             const mapOptions = {
@@ -97,7 +97,7 @@
             }
 
             // Creating a map object
-            const map = new L.map('map', mapOptions);
+            const map = new L.map('أماكن', mapOptions);
 
             // Creating a Layer object
             const layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
