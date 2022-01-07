@@ -13,15 +13,38 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
 
         <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css"/>
+        <link href="./main.css" rel="stylesheet" type="text/css"/>
+
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+              integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+              crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+                integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+                crossorigin=""></script>
 
         <script type="text/javascript">
+            const monthName = [
+                'مُحرّم',
+                'صفر',
+                'ربيع الأول',
+                'ربيع الثاني',
+                'جُمادى الأولى',
+                'جُمادى الآخرة',
+                'رجب',
+                'شعبان',
+                'رمضان',
+                'شوال',
+                'ذو القعدة',
+                'ذو الحجة'
+            ]
+
             function loadData(fileName, dataset) {
                 return fetch(`./${fileName}.json`)
                     .then(response => response.json())
                     .then(data => dataset.add(data))
             }
 
-            function onLoad() {
+            function loadTimeline() {
                 // DOM element where the Timeline will be attached
                 const container = document.getElementById('تراجم');
 
@@ -33,9 +56,10 @@
                 // Create a DataSet ( allows two way data-binding )
                 const items = new vis.DataSet();
 
-                var groups = new vis.DataSet([
+                const groups = new vis.DataSet([
                     {"content": "الخلافة", "id": "الخلافة", "value": 1, nestedGroups: ["الراشدة", "الأموية"]},
-                    {"content": "الرسول", "id": "الرسول", "value": 2}
+                    {"content": "الرسول", "id": "الرسول", "value": 2},
+                    {"content": "المغازي", "id": "المغازي", "value": 3}
                 ])
 
                 groups.add([
@@ -52,15 +76,48 @@
                 Promise
                     .all([
                         loadData('الخلافة', items),
-                        loadData('عهد الرسول', items)
+                        loadData('الرسول', items),
+                        loadData('المغازي', items)
                     ])
                     .then(_ => new vis.Timeline(container, items, groups, options))
             }
         </script>
     </head>
 
-    <body onload='onLoad();'>
+    <body onload='loadTimeline();'>
         <div id="تراجم"></div>
+        <br/>
+        <div id="map" style ="width:1600px; height:1200px;"></div>
+        <script type="text/javascript">
+            // Creating map options
+            const mapOptions = {
+                center: [21.3891, 39.8579],
+                zoom: 6,
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+            }
+
+            // Creating a map object
+            const map = new L.map('map', mapOptions);
+
+            // Creating a Layer object
+            const layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+
+            // Adding layer to the map
+            map.addLayer(layer);
+
+            fetch(`./الرسول.json`)
+                .then(response => response.json())
+                .then(items => items
+                    .filter(item => item.location)
+                    .map(item => item.location)
+                )
+                .then(locations =>
+                    locations.forEach(location => L
+                        .marker([location.lat, location.lng])
+                        .bindPopup(location.name)
+                        .addTo(map))
+                )
+        </script>
     </body>
 
 </html>
