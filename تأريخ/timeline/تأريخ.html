@@ -10,6 +10,9 @@
             }
         </style>
 
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/ar.js"></script>
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
 
         <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css"/>
@@ -50,7 +53,14 @@
 
                 // Configuration for the Timeline
                 const options = {
-                    align: 'right'
+                    align: 'right',
+                    locale: 'ar',
+                    locales: {
+                        ar: {
+                            current: 'حالي',
+                            time: 'وقت'
+                        }
+                    }
                 };
 
                 // Create a DataSet ( allows two way data-binding )
