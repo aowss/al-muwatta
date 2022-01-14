@@ -1,6 +1,6 @@
 @startwbs
 
-skinparam defaultFontName Courier
+skinparam defaultFontName Helvetica
 skinparam DefaultTextAlignment right
 
 * ...
