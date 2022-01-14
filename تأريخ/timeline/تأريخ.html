@@ -99,6 +99,14 @@
         <br/>
         <div id="أماكن" style ="width:1600px; height:1200px;"></div>
         <script type="text/javascript">
+            const loadLocations = fileName =>
+                fetch(`./${fileName}.json`)
+                    .then(response => response.json())
+                    .then(items => items
+                        .filter(item => item.location)
+                        .map(item => item.location)
+                    )
+
             // Creating map options
             const mapOptions = {
                 center: [21.3891, 39.8579],
@@ -115,12 +123,12 @@
             // Adding layer to the map
             map.addLayer(layer);
 
-            fetch(`./الرسول.json`)
-                .then(response => response.json())
-                .then(items => items
-                    .filter(item => item.location)
-                    .map(item => item.location)
-                )
+            Promise
+                .all([
+                    loadLocations(`الرسول`),
+                    loadLocations(`المغازي`)
+                ])
+                .then(locations => locations.flatMap(location => location))
                 .then(locations =>
                     locations.forEach(location => L
                         .marker([location.lat, location.lng])

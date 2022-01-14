@@ -23,8 +23,14 @@ include::أبو-مسعود.adoc[leveloffset=+2]
 
 == أنساب
 
-image::أنساب.svg[]
+[plantuml, أنساب, svg]
+----
+include::./أنساب.puml[أنساب]
+----
 
 == صلة
 
-image::صلة.svg[]
+[graphviz, صلة, svg]
+----
+include::./صلة.gv[صلة]
+----

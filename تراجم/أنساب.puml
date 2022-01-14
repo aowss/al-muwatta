@@ -1,5 +1,8 @@
 @startwbs
 
+skinparam defaultFontName Courier
+skinparam DefaultTextAlignment right
+
 * ...
 
 **[#SkyBlue] كلاب

@@ -16,9 +16,7 @@ asciidoctor -a stylesheet=./res/main.css الموطأ.adoc
 echo Generate the الرجال.html
 
 cd تراجم
-dot -Tsvg صلة.gv > صلة.svg
-java -jar ../res/plantuml-1.2021.15.jar -tsvg أنساب.puml
-asciidoctor -a stylesheet=../res/main.css الرجال.adoc
+asciidoctor -r asciidoctor-diagram -a stylesheet=../res/main.css الرجال.adoc
 cd ..
 
 echo Generate the أسانيد.html

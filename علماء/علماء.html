@@ -1,157 +1,132 @@
-<html dir="rtl" lang="ar">
-  <head>
+<!DOCTYPE HTML>
+<html>
+<head>
     <meta charset="UTF-8">
-    <title>العلماء</title>
-    <link rel='stylesheet' href='../styles.css' type='text/css' />
-    <script src="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js?bundle=true" type="text/javascript"></script>
-    <script>
-        var tl;
-        function onLoad() {
-            var eventSourceMaliki = new Timeline.DefaultEventSource(0);
-            var eventSourceHanafi = new Timeline.DefaultEventSource(0);
-            
-            var theme = Timeline.ClassicTheme.create();
-            theme.event.bubble.width = 320;
-            theme.ether.backgroundColors = [
-                "#D1CECA",
-                "#E7DFD6",
-                "#E8E8F4",
-                "#D0D0E8"
-            ];
-            
-            var zones = [
-                {   start:    "500",
-                    end:      "2100",
-                    magnify:  15,
-                    unit:     Timeline.DateTime.DECADE
-                },
-                {   start:    "1800",
-                    end:      "2100",
-                    magnify:  3,
-                    unit:     Timeline.DateTime.YEAR,
-                    multiple: 1
-                }
-            ];
-            var zones2 = [
-                {   start:    "500",
-                    end:      "2100",
-                    magnify:  5,
-                    unit:     Timeline.DateTime.DECADE
-                },
-                {   start:    "1800",
-                    end:      "2100",
-                    magnify:  3,
-                    unit:     Timeline.DateTime.YEAR,
-                    multiple: 10
-                }
-            ];
-            
-            var d = Timeline.DateTime.parseGregorianDateTime("0");
-            var bandInfos = [
-                Timeline.createHotZoneBandInfo({
-                    width:          "7%", 
-                    intervalUnit:   Timeline.DateTime.CENTURY, 
-                    intervalPixels: 70,
-                    zones:          zones2,
-                    eventSource:    eventSourceMaliki,
-                    date:           d,
-                    overview:       true,
-                    theme:          theme
-                }),
-                Timeline.createHotZoneBandInfo({
-                    width:          "32%",
-                    intervalUnit:   Timeline.DateTime.CENTURY, 
-                    intervalPixels: 250,
-                    zones:          zones,
-                    eventSource:    eventSourceMaliki,
-                    date:           d,
-                    timeZone:       -6,
-                    theme:          theme
-                }),
-                Timeline.createHotZoneBandInfo({
-                    width:          "54%", 
-                    intervalUnit:   Timeline.DateTime.CENTURY, 
-                    intervalPixels: 250,
-                    zones:          zones,
-                    eventSource:    eventSourceHanafi,
-                    date:           d,
-                    timeZone:       -6,
-                    theme:          theme
-                }),
-                Timeline.createHotZoneBandInfo({
-                    width:          "7%", 
-                    intervalUnit:   Timeline.DateTime.CENTURY, 
-                    intervalPixels: 70,
-                    zones:          zones2,
-                    eventSource:    eventSourceHanafi,
-                    date:           d,
-                    overview:       true,
-                    theme:          theme
-                })
-            ];
-            bandInfos[0].syncWith = 1;
-            bandInfos[0].highlight = true;
-            
-            bandInfos[2].syncWith = 1;
-            bandInfos[3].syncWith = 2;
-            bandInfos[3].highlight = true;
-            
-            tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
-            tl.loadXML("maliki.xml", function(xml, url) {
-                eventSourceMaliki.loadXML(xml, url);
-                document.getElementById("maliki-event-count").innerHTML = eventSourceMaliki.getCount();
-            });
-            tl.loadXML("hanafi.xml", function(xml, url) {
-                eventSourceHanafi.loadXML(xml, url);
-                document.getElementById("hanafi-event-count").innerHTML = eventSourceHanafi.getCount();
-            });
-            
-            setupFilterHighlightControls(document.getElementById("maliki-controls"), tl, [0,1], theme);
-            setupFilterHighlightControls(document.getElementById("hanafi-controls"), tl, [2,3], theme);
+    <title>علماء</title>
+
+    <style type="text/css">
+        body, html {
+            font-family: sans-serif;
         }
-        function centerTimeline(year) {
-            tl.getBand(0).setCenterVisibleDate(new Date(year, 0, 1));
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/ar.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-timeline-graph2d.min.css" rel="stylesheet" type="text/css"/>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+            crossorigin=""></script>
+
+    <script type="text/javascript">
+        const monthName = [
+            'مُحرّم',
+            'صفر',
+            'ربيع الأول',
+            'ربيع الثاني',
+            'جُمادى الأولى',
+            'جُمادى الآخرة',
+            'رجب',
+            'شعبان',
+            'رمضان',
+            'شوال',
+            'ذو القعدة',
+            'ذو الحجة'
+        ]
+
+        function loadData(fileName, dataset) {
+            return fetch(`./${fileName}.json`)
+                .then(response => response.json())
+                .then(data => dataset.add(data))
         }
-        
-        var resizeTimerID = null;
-        function onResize() {
-            if (resizeTimerID == null) {
-                resizeTimerID = window.setTimeout(function() {
-                    resizeTimerID = null;
-                    tl.layout();
-                }, 500);
-            }
+
+        function loadTimeline() {
+            // DOM element where the Timeline will be attached
+            const container = document.getElementById('علماء');
+
+            // Configuration for the Timeline
+            const options = {
+                align: 'right',
+                locale: 'ar',
+                locales: {
+                    ar: {
+                        current: 'حالي',
+                        time: 'وقت'
+                    }
+                }
+            };
+
+            // Create a DataSet ( allows two way data-binding )
+            const items = new vis.DataSet();
+
+            const groups = new vis.DataSet([
+                {"content": "الخلافة", "id": "الخلافة", "value": 1, nestedGroups: ["الراشدة", "الأموية"]},
+                {"content": "الرسول", "id": "الرسول", "value": 2},
+                {"content": "المغازي", "id": "المغازي", "value": 3}
+            ])
+
+            groups.add([
+                {
+                    id: "الراشدة",
+                    content: "الراشدة",
+                },
+                {
+                    id: "الأموية",
+                    content: "الأموية",
+                }
+            ]);
+
+            Promise
+                .all([
+                    loadData('الخلافة', items),
+                    loadData('الرسول', items),
+                    loadData('المغازي', items)
+                ])
+                .then(_ => new vis.Timeline(container, items, groups, options))
         }
     </script>
-  </head>
-  <body onload="onLoad();" onresize="onResize();">
-  
-    <div id="header">
-      <h1>علماء المذاهب</h1>
-    </div>
-  
-    <div id="content">
-    
-      <div style="width: 100%">
-          <table style="text-align: center; width: 100%">
-              <tr>
-                  <td><a href="javascript:centerTimeline(600);">600 AD</a></td>
-                  <td><a href="javascript:centerTimeline(800);">800 AD</a></td>
-                  <td><a href="javascript:centerTimeline(1000);">1000 AD</a></td>
-                  <td><a href="javascript:centerTimeline(1200);">1200 AD</a></td>
-                  <td><a href="javascript:centerTimeline(1400);">1400 AD</a></td>
-                  <td><a href="javascript:centerTimeline(1700);">1700 AD</a></td>
-                  <td><a href="javascript:centerTimeline(2000);">2000 AD</a></td>
-              </tr>
-          </table>
-      </div>
-    
-      <div class="controls" id="maliki-controls"></div>
-      
-      <div id="tl" class="timeline-default" style="height: 800px"></div>
-      
-      <div class="controls" id="hanafi-controls"></div>
-    </div>
-    
-  </body>
+</head>
+
+<body onload='loadTimeline();'>
+<div id="علماء"></div>
+<br/>
+<div id="أماكن" style ="width:1600px; height:1200px;"></div>
+<script type="text/javascript">
+    // Creating map options
+    const mapOptions = {
+        center: [21.3891, 39.8579],
+        zoom: 6,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }
+
+    // Creating a map object
+    const map = new L.map('أماكن', mapOptions);
+
+    // Creating a Layer object
+    const layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+
+    // Adding layer to the map
+    map.addLayer(layer);
+
+    fetch(`./الرسول.json`)
+        .then(response => response.json())
+        .then(items => items
+            .filter(item => item.location)
+            .map(item => item.location)
+        )
+        .then(locations =>
+            locations.forEach(location => L
+                .marker([location.lat, location.lng])
+                .bindPopup(location.name)
+                .addTo(map))
+        )
+</script>
+</body>
+
 </html>
