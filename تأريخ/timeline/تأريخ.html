@@ -26,6 +26,7 @@
                 crossorigin=""></script>
 
         <script type="text/javascript">
+            // moment.locale('ar')
             const monthNames = [
                 'مُحرّم',
                 'صفر',
@@ -58,12 +59,25 @@
 
                 // Configuration for the Timeline
                 const options = {
+                    // rtl: true,
                     align: 'right',
                     locale: 'ar',
                     locales: {
                         ar: {
                             current: 'حالي',
                             time: 'وقت'
+                        }
+                    },
+                    format: {
+                        minorLabels: {
+                            year:       'Y'
+                        },
+                        majorLabels: {
+                            weekday:    'MMMM Y',
+                            day:        'MMMM Y',
+                            week:       'MMMM Y',
+                            month:      'Y',
+
                         }
                     }
                 };
