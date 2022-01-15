@@ -26,7 +26,7 @@
                 crossorigin=""></script>
 
         <script type="text/javascript">
-            const monthName = [
+            const monthNames = [
                 'مُحرّم',
                 'صفر',
                 'ربيع الأول',
@@ -40,6 +40,11 @@
                 'ذو القعدة',
                 'ذو الحجة'
             ]
+
+            moment.updateLocale('ar', {
+                months : monthNames,
+                monthsShort: monthNames
+            })
 
             function loadData(fileName, dataset) {
                 return fetch(`./${fileName}.json`)
