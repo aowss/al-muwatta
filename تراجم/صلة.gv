@@ -1,18 +1,22 @@
-graph step2 {
+graph tree {
+    pagedir = TR;
+//    rankdir = RL
 
-    graph[ nodesep = 0.25, ranksep = 0.3, splines = line ];
-
-    "رسول الله" -- "عائشة" [ label = "زوج", color=blue, labelangle = 45 ];
-    "أبو بكر" -- "عائشة" [ label = "بنت", color=green, labelangle = 45 ];
-    "أبو بكر" -- "أسماء" [ label = "بنت", color=green, labelangle = 45 ];
-    "عائشة" -- "أسماء" [ label = "أخت", labelangle = 45, fontname = "Courier", fontsize = 12 ];
-    "أسماء" -- "الزبير" [ label = "زوج", color=blue, labelangle = 45 ];
-    "أسماء" -- "عروة" [ label = "ابن", color=green, labelangle = 45 ];
-    "الزبير" -- "عروة" [ label = "ابن", color=green, labelangle = 45 ];
-    "أسماء" -- "عبد الله" [ label = "ابن", color=green, labelangle = 45 ];
-    "الزبير" -- "عبد الله" [ label = "ابن", color=green, labelangle = 45 ];
-    "عروة" -- "يحيى" [ label = "ابن", color=green, labelangle = 45 ];
-    "عروة" -- "عثمان" [ label = "ابن", color=green, labelangle = 45 ];
-    "عروة" -- "هشام" [ label = "ابن", color=green, labelangle = 45 ];
-    "عروة" -- "محمّد" [ label = "ابن", color=green, labelangle = 45 ];
+    "رسول الله" -- "عبد الله" [ label = "ابن", color = green ];
+    "رسول الله" -- "عائشة" [ label = "زوج", color = blue ];
+    "أبو بكر" -- "عائشة" [ label = "بنت", color = green ];
+    "أبو بكر" -- "أسماء" [ label = "بنت", color = green ];
+    "عائشة" -- "أسماء" [ label = "أخت", color = blue ];
+    "أسماء" -- "الزبير" [ label = "زوج", color = blue ];
+    "أسماء" -- "عروة" [ label = "ابن", color = green ];
+    "الزبير" -- "عروة" [ label = "ابن", color = green ];
+    "أسماء" -- "عبد الله" [ label = "ابن", color = green ];
+    "الزبير" -- "عبد الله" [ label = "ابن", color = green ];
+    "عروة" -- "يحيى" [ label = "ابن", color = green ];
+    "عروة" -- "عثمان" [ label = "ابن", color = green ];
+    "عروة" -- "هشام" [ label = "ابن", color = green ];
+    "عروة" -- "محمّد" [ label = "ابن", color = green ];
+    "عباس" -- "عبد الله" [ label = "أخ", color = blue ];
+    عبدالله١ [ label = "عبد الله" ];
+    عبدالله١ -- "عباس" [ label = "ابن", color = green ];
 }

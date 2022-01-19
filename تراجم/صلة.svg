@@ -1,151 +1,181 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg height='407pt' preserveAspectRatio='xMidYMid meet' viewBox='0.00 0.00 289.90 407.00' width='290pt' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'>
-<g class='graph' id='graph0' transform='scale(1 1) rotate(0) translate(4 403)'>
-<title>step2</title>
-<polygon fill='white' points='-4,4 -4,-403 285.9,-403 285.9,4 -4,4' stroke='transparent'/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg height='479pt' preserveAspectRatio='xMidYMid meet' viewBox='0.00 0.00 359.24 479.00' width='359pt' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg'>
+<g class='graph' id='graph0' transform='scale(1 1) rotate(0) translate(4 475)'>
+<title>tree</title>
+<polygon fill='white' points='-4,4 -4,-475 355.24,-475 355.24,4 -4,4' stroke='transparent'/>
 
 <g class='node' id='node1'>
 <title>رسول الله</title>
-<ellipse cx='127.95' cy='-381' fill='none' rx='40.09' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='127.95' y='-377.3'>رسول الله</text>
+<ellipse cx='40.3' cy='-453' fill='none' rx='40.09' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='40.3' y='-449.3'>رسول الله</text>
 </g>
 
 <g class='node' id='node2'>
-<title>عائشة</title>
-<ellipse cx='151.95' cy='-308' fill='none' rx='30.59' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='151.95' y='-304.3'>عائشة</text>
+<title>عبد الله</title>
+<ellipse cx='108.3' cy='-105' fill='none' rx='33.6' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='108.3' y='-101.3'>عبد الله</text>
 </g>
 
 <g class='edge' id='edge1'>
-<title>رسول الله&#45;&#45;عائشة</title>
-<path d='M133.64,-363.17C137.46,-351.86 142.48,-337 146.3,-325.71' fill='none' stroke='blue'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='145.95' y='-340.8'>زوج</text>
-</g>
-
-<g class='node' id='node4'>
-<title>أسماء</title>
-<ellipse cx='185.95' cy='-237' fill='none' rx='29.5' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='185.95' y='-233.3'>أسماء</text>
-</g>
-
-<g class='edge' id='edge4'>
-<title>عائشة&#45;&#45;أسماء</title>
-<path d='M160.18,-290.3C165.52,-279.45 172.46,-265.37 177.79,-254.55' fill='none' stroke='black'/>
-<text font-family='Courier,monospace' font-size='12.00' text-anchor='middle' x='184.45' y='-269.4'>أخت</text>
+<title>رسول الله&#45;&#45;عبد الله</title>
+<path d='M35.79,-434.88C31.7,-417.81 26.3,-390.78 26.3,-367 26.3,-367 26.3,-367 26.3,-191 26.3,-157.37 59.95,-131.95 84.14,-118.01' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='34.3' y='-275.3'>ابن</text>
 </g>
 
 <g class='node' id='node3'>
-<title>أبو بكر</title>
-<ellipse cx='218.95' cy='-381' fill='none' rx='33.29' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='218.95' y='-377.3'>أبو بكر</text>
+<title>عائشة</title>
+<ellipse cx='85.3' cy='-366' fill='none' rx='30.59' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='85.3' y='-362.3'>عائشة</text>
 </g>
 
 <g class='edge' id='edge2'>
-<title>أبو بكر&#45;&#45;عائشة</title>
-<path d='M204.41,-364.59C193.17,-352.68 177.69,-336.28 166.46,-324.38' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='195.45' y='-340.8'>بنت</text>
-</g>
-
-<g class='edge' id='edge3'>
-<title>أبو بكر&#45;&#45;أسماء</title>
-<path d='M218.95,-362.75C218.95,-343.37 218.95,-315.5 218.95,-315.5 218.95,-315.5 203.17,-277.97 193.44,-254.81' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='228.45' y='-304.3'>بنت</text>
+<title>رسول الله&#45;&#45;عائشة</title>
+<path d='M49.19,-435.21C57.13,-420.21 68.69,-398.37 76.58,-383.47' fill='none' stroke='blue'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='76.3' y='-405.8'>زوج</text>
 </g>
 
 <g class='node' id='node5'>
-<title>الزبير</title>
-<ellipse cx='185.95' cy='-164' fill='none' rx='28.7' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='185.95' y='-160.3'>الزبير</text>
+<title>أسماء</title>
+<ellipse cx='131.3' cy='-279' fill='none' rx='29.5' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='131.3' y='-275.3'>أسماء</text>
 </g>
 
 <g class='edge' id='edge5'>
-<title>أسماء&#45;&#45;الزبير</title>
-<path d='M185.95,-218.81C185.95,-207.65 185.95,-193.16 185.95,-182.03' fill='none' stroke='blue'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='195.95' y='-196.8'>زوج</text>
+<title>عائشة&#45;&#45;أسماء</title>
+<path d='M94.17,-348.61C102.31,-333.56 114.32,-311.37 122.45,-296.34' fill='none' stroke='blue'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='122.3' y='-318.8'>أخت</text>
 </g>
 
-<g class='node' id='node6'>
-<title>عروة</title>
-<ellipse cx='140.95' cy='-91' fill='none' rx='27' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='140.95' y='-87.3'>عروة</text>
+<g class='node' id='node4'>
+<title>أبو بكر</title>
+<ellipse cx='131.3' cy='-453' fill='none' rx='33.29' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='131.3' y='-449.3'>أبو بكر</text>
 </g>
 
-<g class='edge' id='edge6'>
-<title>أسماء&#45;&#45;عروة</title>
-<path d='M175.98,-219.93C162.18,-196.3 138.95,-156.5 138.95,-156.5 138.95,-156.5 139.8,-128.63 140.39,-109.25' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='130.95' y='-160.3'>ابن</text>
+<g class='edge' id='edge3'>
+<title>أبو بكر&#45;&#45;عائشة</title>
+<path d='M122.43,-435.61C114.28,-420.56 102.28,-398.37 94.14,-383.34' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='120.8' y='-405.8'>بنت</text>
 </g>
 
-<g class='node' id='node7'>
-<title>عبد الله</title>
-<ellipse cx='228.95' cy='-91' fill='none' rx='33.6' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='228.95' y='-87.3'>عبد الله</text>
-</g>
-
-<g class='edge' id='edge8'>
-<title>أسماء&#45;&#45;عبد الله</title>
-<path d='M201.35,-221.48C220.57,-202.11 250.95,-171.5 250.95,-171.5 250.95,-171.5 240.31,-132.58 233.83,-108.87' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='258.95' y='-160.3'>ابن</text>
-</g>
-
-<g class='edge' id='edge7'>
-<title>الزبير&#45;&#45;عروة</title>
-<path d='M175.74,-146.89C168.37,-135.27 158.47,-119.65 151.12,-108.05' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='175.95' y='-123.8'>ابن</text>
+<g class='edge' id='edge4'>
+<title>أبو بكر&#45;&#45;أسماء</title>
+<path d='M133.48,-434.67C136.44,-408.64 140.95,-357.94 137.3,-315 136.79,-309.1 135.83,-302.71 134.81,-297.02' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='148.8' y='-362.3'>بنت</text>
 </g>
 
 <g class='edge' id='edge9'>
+<title>أسماء&#45;&#45;عبد الله</title>
+<path d='M116.2,-263.42C104.14,-250.64 88.15,-230.88 81.3,-210 71.29,-179.51 86.92,-143.05 98.25,-122.4' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='89.3' y='-188.3'>ابن</text>
+</g>
+
+<g class='node' id='node6'>
+<title>الزبير</title>
+<ellipse cx='135.3' cy='-192' fill='none' rx='28.7' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='135.3' y='-188.3'>الزبير</text>
+</g>
+
+<g class='edge' id='edge6'>
+<title>أسماء&#45;&#45;الزبير</title>
+<path d='M132.11,-260.8C132.8,-246.05 133.79,-224.92 134.49,-210.18' fill='none' stroke='blue'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='144.3' y='-231.8'>زوج</text>
+</g>
+
+<g class='node' id='node7'>
+<title>عروة</title>
+<ellipse cx='210.3' cy='-105' fill='none' rx='27' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='210.3' y='-101.3'>عروة</text>
+</g>
+
+<g class='edge' id='edge7'>
+<title>أسماء&#45;&#45;عروة</title>
+<path d='M153.99,-267.23C158.98,-265.04 164.28,-262.84 169.3,-261 196.23,-251.12 209.15,-261.24 231.3,-243 244.03,-232.51 244.41,-226.03 248.3,-210 252.07,-194.45 252.33,-189.48 248.3,-174 243.22,-154.5 231.18,-134.66 222,-121.49' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='258.3' y='-188.3'>ابن</text>
+</g>
+
+<g class='edge' id='edge10'>
 <title>الزبير&#45;&#45;عبد الله</title>
-<path d='M195.7,-146.89C202.64,-135.43 211.93,-120.09 218.93,-108.54' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='219.95' y='-123.8'>ابن</text>
+<path d='M129.43,-174.31C127.43,-168.53 125.22,-161.99 123.3,-156 119.8,-145.13 116.12,-132.85 113.27,-123.18' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='131.3' y='-144.8'>ابن</text>
+</g>
+
+<g class='edge' id='edge8'>
+<title>الزبير&#45;&#45;عروة</title>
+<path d='M152.98,-177.65C160.58,-171.48 169.3,-163.81 176.3,-156 185.68,-145.52 194.56,-132.32 200.89,-122.11' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='196.3' y='-144.8'>ابن</text>
 </g>
 
 <g class='node' id='node8'>
 <title>يحيى</title>
-<ellipse cx='27.95' cy='-18' fill='none' rx='27.9' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='27.95' y='-14.3'>يحيى</text>
+<ellipse cx='97.3' cy='-18' fill='none' rx='27.9' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='97.3' y='-14.3'>يحيى</text>
 </g>
 
-<g class='edge' id='edge10'>
+<g class='edge' id='edge11'>
 <title>عروة&#45;&#45;يحيى</title>
-<path d='M122.03,-78.12C101.3,-65.09 68.21,-44.3 47.3,-31.16' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='102.95' y='-50.8'>ابن</text>
+<path d='M193.13,-91.09C172.02,-75.21 136.35,-48.38 114.99,-32.31' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='169.3' y='-57.8'>ابن</text>
 </g>
 
 <g class='node' id='node9'>
 <title>عثمان</title>
-<ellipse cx='102.95' cy='-18' fill='none' rx='29.5' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='102.95' y='-14.3'>عثمان</text>
+<ellipse cx='172.3' cy='-18' fill='none' rx='29.5' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='172.3' y='-14.3'>عثمان</text>
 </g>
 
-<g class='edge' id='edge11'>
+<g class='edge' id='edge12'>
 <title>عروة&#45;&#45;عثمان</title>
-<path d='M132.32,-73.89C126.19,-62.43 117.98,-47.09 111.8,-35.54' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='133.95' y='-50.8'>ابن</text>
+<path d='M202.97,-87.61C196.28,-72.66 186.45,-50.66 179.73,-35.63' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='202.3' y='-57.8'>ابن</text>
 </g>
 
 <g class='node' id='node10'>
 <title>هشام</title>
-<ellipse cx='178.95' cy='-18' fill='none' rx='28.7' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='178.95' y='-14.3'>هشام</text>
+<ellipse cx='248.3' cy='-18' fill='none' rx='28.7' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='248.3' y='-14.3'>هشام</text>
 </g>
 
-<g class='edge' id='edge12'>
+<g class='edge' id='edge13'>
 <title>عروة&#45;&#45;هشام</title>
-<path d='M149.57,-73.89C155.7,-62.43 163.91,-47.09 170.1,-35.54' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='171.95' y='-50.8'>ابن</text>
+<path d='M217.62,-87.61C224.31,-72.66 234.14,-50.66 240.86,-35.63' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='239.3' y='-57.8'>ابن</text>
 </g>
 
 <g class='node' id='node11'>
 <title>محمّد</title>
-<ellipse cx='253.95' cy='-18' fill='none' rx='27.9' ry='18' stroke='black'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='253.95' y='-14.3'>محمّد</text>
+<ellipse cx='323.3' cy='-18' fill='none' rx='27.9' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='323.3' y='-14.3'>محمّد</text>
 </g>
 
-<g class='edge' id='edge13'>
+<g class='edge' id='edge14'>
 <title>عروة&#45;&#45;محمّد</title>
-<path d='M159.86,-78.12C180.59,-65.09 213.69,-44.3 234.59,-31.16' fill='none' stroke='green'/>
-<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='215.95' y='-50.8'>ابن</text>
+<path d='M227.46,-91.09C248.57,-75.21 284.24,-48.38 305.6,-32.31' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='281.3' y='-57.8'>ابن</text>
+</g>
+
+<g class='node' id='node12'>
+<title>عباس</title>
+<ellipse cx='210.3' cy='-192' fill='none' rx='28.7' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='210.3' y='-188.3'>عباس</text>
+</g>
+
+<g class='edge' id='edge15'>
+<title>عباس&#45;&#45;عبد الله</title>
+<path d='M190.83,-178.79C181.08,-172.39 169.25,-164.19 159.3,-156 146.27,-145.29 132.69,-131.84 122.82,-121.6' fill='none' stroke='blue'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='165.8' y='-144.8'>أخ</text>
+</g>
+
+<g class='node' id='node13'>
+<title>عبدالله١</title>
+<ellipse cx='212.3' cy='-279' fill='none' rx='33.6' ry='18' stroke='black'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='212.3' y='-275.3'>عبد الله</text>
+</g>
+
+<g class='edge' id='edge16'>
+<title>عبدالله١&#45;&#45;عباس</title>
+<path d='M211.89,-260.8C211.54,-246.05 211.05,-224.92 210.7,-210.18' fill='none' stroke='green'/>
+<text font-family='Times,serif' font-size='14.00' text-anchor='middle' x='219.3' y='-231.8'>ابن</text>
 </g>
 </g>
 </svg>
