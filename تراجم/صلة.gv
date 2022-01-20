@@ -1,22 +1,27 @@
-graph tree {
+digraph tree {
     pagedir = TR;
 //    rankdir = RL
 
-    "رسول الله" -- "عبد الله" [ label = "ابن", color = green ];
-    "رسول الله" -- "عائشة" [ label = "زوج", color = blue ];
-    "أبو بكر" -- "عائشة" [ label = "بنت", color = green ];
-    "أبو بكر" -- "أسماء" [ label = "بنت", color = green ];
-    "عائشة" -- "أسماء" [ label = "أخت", color = blue ];
-    "أسماء" -- "الزبير" [ label = "زوج", color = blue ];
-    "أسماء" -- "عروة" [ label = "ابن", color = green ];
-    "الزبير" -- "عروة" [ label = "ابن", color = green ];
-    "أسماء" -- "عبد الله" [ label = "ابن", color = green ];
-    "الزبير" -- "عبد الله" [ label = "ابن", color = green ];
-    "عروة" -- "يحيى" [ label = "ابن", color = green ];
-    "عروة" -- "عثمان" [ label = "ابن", color = green ];
-    "عروة" -- "هشام" [ label = "ابن", color = green ];
-    "عروة" -- "محمّد" [ label = "ابن", color = green ];
-    "عباس" -- "عبد الله" [ label = "أخ", color = blue ];
+    "رسول الله" -> "عبد الله" [ label = "ابن", color = green ];
+    "رقيَّة" -> "رسول الله" [ label = "بنت", color = green ];
+    "أم كلثوم" -> "رسول الله" [ label = "بنت", color = green ];
+    "عثمان بن عفان" -> "رقيَّة" [ label = "زوج", color = blue ];
+    "عثمان بن عفان" -> "أم كلثوم" [ label = "زوج", color = blue ];
+    "رسول الله" -> "عائشة" [ label = "زوج", color = blue ];
+    "عائشة" -> "أبو بكر" [ label = "بنت", color = green ];
+    "أسماء" -> "أبو بكر" [ label = "بنت", color = green ];
+    "عائشة" -> "أسماء" [ label = "أخت", color = blue ];
+    "أسماء" -> "الزبير" [ label = "زوج", color = blue ];
+    "عروة" -> "أسماء" [ label = "ابن", color = green ];
+    "عروة" -> "الزبير" [ label = "ابن", color = green ];
     عبدالله١ [ label = "عبد الله" ];
-    عبدالله١ -- "عباس" [ label = "ابن", color = green ];
+    عبدالله١ -> "أسماء" [ label = "ابن", color = green ];
+    عبدالله١ -> "الزبير" [ label = "ابن", color = green ];
+    "يحيى" -> "عروة" [ label = "ابن", color = green ];
+    "عثمان" -> "عروة" [ label = "ابن", color = green ];
+    "هشام" -> "عروة" [ label = "ابن", color = green ];
+    "محمّد" -> "عروة" [ label = "ابن", color = green ];
+    "عباس" -> "عبد الله" [ label = "أخ", color = blue ];
+    عبدالله٢ [ label = "عبد الله" ];
+    عبدالله٢ -> "عباس" [ label = "ابن", color = green ];
 }
