@@ -20,3 +20,5 @@
 = فقه
 
 include::./أوقات الصلاة.adoc[leveloffset=+1]
+
+include::./الطهارة.adoc[leveloffset=+1]

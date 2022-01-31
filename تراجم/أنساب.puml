@@ -1,6 +1,7 @@
 @startwbs
 
-skinparam defaultFontName Helvetica
+skinparam DefaultFontName Helvetica
+skinparam DefaultFontSize 16
 skinparam DefaultTextAlignment right
 
 * ...
@@ -61,6 +62,7 @@ skinparam DefaultTextAlignment right
 ************ المغيرة
 
 ** الخزرج
+
 *** الحارث
 **** عوف
 ***** خُدارة
@@ -70,5 +72,15 @@ skinparam DefaultTextAlignment right
 ********* ثعلبة
 ********** عمرو
 *********** عقبة
+
+*** عمرو
+**** ثعلبة
+***** النجار
+****** مازن
+******* ...
+******** أبو حسن
+********* عُمارة
+********** يحيى
+*********** عمرو
 
 @endwbs
