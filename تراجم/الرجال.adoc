@@ -27,6 +27,10 @@ include::عثمان-بن-عفان.adoc[leveloffset=+2]
 
 include::عمرو-بن-يحيى.adoc[leveloffset=+2]
 
+include::يحيى-بن-عمارة.adoc[leveloffset=+2]
+
+include::عبد-الله-بن-زيد-بن-عاصم.adoc[leveloffset=+2]
+
 == أنساب
 
 [plantuml, أنساب, svg]
