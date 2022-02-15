@@ -28,6 +28,11 @@ ul li ul, ul li ol {
 }
 */
 
+/* paragraph title alignment */
+.admonitionblock td.content > .title, .audioblock > .title, .exampleblock > .title, .imageblock > .title, .listingblock > .title, .literalblock > .title, .stemblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, table.tableblock > .title, .verseblock > .title, .videoblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title {
+  text-align: right;
+}
+
 .hadith>.content>pre, .hadith > blockquote {
   border: 2px solid black;
   font-size: large;
@@ -50,9 +55,4 @@ ul li ul, ul li ol {
   padding-right: 25px;
   padding-bottom: 15px;
   padding-left: 25px;
-}
-
-/* paragraph title alignment */
-.admonitionblock td.content > .title, .audioblock > .title, .exampleblock > .title, .imageblock > .title, .listingblock > .title, .literalblock > .title, .stemblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, table.tableblock > .title, .verseblock > .title, .videoblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title {
-  text-align: right;
 }

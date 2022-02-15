@@ -30,6 +30,10 @@ You need to follow the [instructions](https://www.oracle.com/java/technologies/d
 
 You need to follow the [instructions](https://docs.asciidoctor.org/asciidoctor/latest/install/) to globally install [Asciidoctor](https://asciidoctor.org/) so that you can run the `asciidoctor` command
 
+* [Nokogumbo](https://github.com/rubys/nokogumbo) to view the footnotes as tooltips
+
+> `gem install nokogumbo`
+
 * [Asciidoctor revealjs](https://github.com/asciidoctor/asciidoctor-reveal.js) to convert the `adoc` files to `html` presentations
 
 You need to follow the [instructions](https://docs.asciidoctor.org/reveal.js-converter/latest/setup/standalone-executable/) to install [Asciidoctor revealjs](https://github.com/asciidoctor/asciidoctor-reveal.js) in the `res` directory so that you can run the `./asciidoctor-revealjs` command
@@ -72,9 +76,9 @@ You need to follow the [instructions](https://graphviz.org/download/) to globall
 
 > `asciidoctor -a stylesheet=../res/main.css أسانيد.adoc`
 
-* The [`فقه.html`](./فقه/فقه.html) file is generated using this command from the `فقه` directory:
+* The [`فقه.html`](./فقه/فقه.html) file and its linked files are generated using this command from the `فقه` directory:
 
-> `asciidoctor -a stylesheet=../res/main.css فقه.adoc`
+> `asciidoctor -r ../res/lib/footnote-tooltip-postprocessor.rb -a stylesheet=../res/main.css *.adoc`
 
 When one of the `.adoc` file in the [`أحاديث`](./أحاديث), [`تراجم`](./تراجم) or [`فقه`](./فقه) folder is updated, the [`الموطأ.html`](./الموطأ.html) file needs to be re-generated.
 
@@ -87,6 +91,8 @@ The [`main.css`](./res/main.css) stylesheet is used to:
 - add some styles.
 
 The [Localization and numbering attributes](https://docs.asciidoctor.org/asciidoc/latest/attributes/document-attributes-ref/#builtin-attributes-i18n) are set to use arabic-indic numbers for footnotes, tables, ... and to set Arabic titles for ToC, ...
+
+This [post-processor extension](./res/lib/footnote-tooltip-postprocessor.rb) is used to view the footnotes at tooltips.
 
 ## EPUB 3
 
