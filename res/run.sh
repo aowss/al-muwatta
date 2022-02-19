@@ -28,7 +28,7 @@ cd ..
 echo Generate the فقه.html
 
 cd فقه
-asciidoctor -r ../res/lib/footnote-tooltip-postprocessor.rb -a stylesheet=../res/main.css *.adoc
+asciidoctor -r asciidoctor-diagram -r ../res/lib/footnote-tooltip-postprocessor.rb -a stylesheet=../res/main.css *.adoc
 cd ..
 
 #echo Generate the فقه.epub

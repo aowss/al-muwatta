@@ -19,6 +19,6 @@
 
 = فقه
 
-include::./أوقات الصلاة.adoc[leveloffset=+1]
+xref:./أوقات الصلاة.adoc[أوقات الصلاة]
 
-include::./الطهارة.adoc[leveloffset=+1]
+xref:الطهارة.adoc[الطهارة]

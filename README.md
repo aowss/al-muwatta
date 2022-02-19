@@ -78,7 +78,7 @@ You need to follow the [instructions](https://graphviz.org/download/) to globall
 
 * The [`فقه.html`](./فقه/فقه.html) file and its linked files are generated using this command from the `فقه` directory:
 
-> `asciidoctor -r ../res/lib/footnote-tooltip-postprocessor.rb -a stylesheet=../res/main.css *.adoc`
+> `asciidoctor -r asciidoctor-diagram -r ../res/lib/footnote-tooltip-postprocessor.rb -a stylesheet=../res/main.css *.adoc`
 
 When one of the `.adoc` file in the [`أحاديث`](./أحاديث), [`تراجم`](./تراجم) or [`فقه`](./فقه) folder is updated, the [`الموطأ.html`](./الموطأ.html) file needs to be re-generated.
 
