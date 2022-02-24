@@ -86,4 +86,9 @@ skinparam DefaultTextAlignment right
 
 *********[#LightGreen] عمرو
 
+legend right
+    |<#LightGreen> صحابي |
+    |<#pink> تابعي |
+endlegend
+
 @endwbs

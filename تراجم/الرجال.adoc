@@ -31,6 +31,10 @@ include::يحيى-بن-عمارة.adoc[leveloffset=+2]
 
 include::عبد-الله-بن-زيد-بن-عاصم.adoc[leveloffset=+2]
 
+include::../تراجم/زيد-بن-أسلم.adoc[leveloffset=+2]
+
+include::../تراجم/عطاء-بن-يسار.adoc[leveloffset=+2]
+
 == أنساب
 
 [plantuml, أنساب, svg]
